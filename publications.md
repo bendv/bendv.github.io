@@ -10,7 +10,7 @@ permalink: /publications.html
 
 Pratihast, A.K., **DeVries, B.**, Avitabile, V., de Bruin, S., Herold, M. and Bergsma, A. 2015. Design and implementation of an interactive web-based near real-time forest monitoring system. PLoS ONE Forests, under review. 
 
-Avitabile V., Herold M., Heuvelink G.B.M., Lewis S.L., Phillips O.L., Asner G.P., Asthon P., Banin L.F., Bayol N., Berry N., Boeckx P., de Jong B., **DeVries B.**, Girardin C., Kearsley E., Lindsell J.A., Lopez-Gonzalez G., Lucas R., Malhi Y., Morel A.,  Mitchard E., Nagy L., Qie L., Quinones M., Ryan C.M., Slik F., Sunderland, T., Vaglio Laurin G., Valentini R., Verbeeck H., Wijaya A. and Willcock S. 2015. An integrated pan-tropical biomass maps using multiple reference datasets. Global Change Biology, under review
+Avitabile, V., Herold, M., Heuvelink, G.B.M., Lewis, S.L., Phillips, O.L., Asner, G.P., Asthon, P., Banin, L.F., Bayol, N., Berry, N., Boeckx, P., de Jong, B., **DeVries, B.**, Girardin, C., Kearsley, E., Lindsell, J.A., Lopez-Gonzalez, G., Lucas, R., Malhi, Y., Morel, A.,  Mitchard, E., Nagy, L., Qie, L., Quinones, M., Ryan, C.M., Slik, F., Sunderland, T., Vaglio Laurin, G., Valentini, R., Verbeeck, H., Wijaya, A. and Willcock, S. 2015. An integrated pan-tropical biomass maps using multiple reference datasets. Global Change Biology, accepted.
 
 **DeVries, B.**, Decuyper, M., Verbesselt, J., Zeileis, A., Herold, M. and Joseph, S. 2015. Tracking disturbance-regrowth dynamics in the tropics using structural change monitoring and Landsat time series. Remote Sensing of Environment 169:320-334.
 
