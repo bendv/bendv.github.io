@@ -9,6 +9,6 @@ Welcome to my site! I am a recent PhD graduate from Wageningen University in the
 
 Check out the some R packages that I have (co-)authored in the past years:
 
-[http://github.com/dutri001/bfastSpatial](bfastSpatial): tools for Landsat and MODIS time series analysis based on the BFAST framework
-[http://github.com/bendv/Rgrowth](Rgrowth): post-disturbance forest regrowth monitoring using Landsat time series
-[http://github.com/bendv/timeSyncR](timeSyncR): an implementaiton o the TimeSync framework for visual interpretation of Landsat time series
+* [http://github.com/dutri001/bfastSpatial](bfastSpatial): tools for Landsat and MODIS time series analysis based on the BFAST framework
+* [http://github.com/bendv/Rgrowth](Rgrowth): post-disturbance forest regrowth monitoring using Landsat time series
+* [http://github.com/bendv/timeSyncR](timeSyncR): an implementaiton o the TimeSync framework for visual interpretation of Landsat time series
