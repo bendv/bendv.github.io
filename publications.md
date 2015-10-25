@@ -22,9 +22,11 @@ Dresen, E., **DeVries, B.**, Herold, M., Verchot, L. and M&#252;ller, R. 2014. F
 
 Buerger, C., **DeVries, B.** and Stambolic, V. 2006. Localization of Rheb to the endomembrane is critical for its signaling function. Biochemical and Biophysical Research Communications, 344(3):869-880.
 
+
 ### Peer-reviewed book chapter
 
 **DeVries, B.** and Herold, M. 2013. The Science of Measuring, Reporting and Verification (MRV). In R. Lyster, C. MacKenzie, & C. McDermott (Eds.), Law, Tropical Forests and Carbon: The Case of REDD+, pp. 151-183. Cambridge: Cambridge Univ Press.
+
 
 ### Other scientific publications
 
