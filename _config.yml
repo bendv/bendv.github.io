@@ -4,7 +4,7 @@ email: devries.br@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Researcher in land cover change monitoring using satellite time series data
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://bendevries.ca" # the base hostname & protocol for your site
+url: "http://bendv.github.io" # the base hostname & protocol for your site
 twitter_username: onchante  
 github_username:  bendv
 
