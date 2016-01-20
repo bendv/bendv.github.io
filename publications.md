@@ -1,36 +1,36 @@
 ---
-layout: page
+layout: default
 title: Publications
 permalink: /publications.html
 ---
 
 ### Peer-reviewed journal publications
 
-**DeVries, B.**, Pratihast, A.K., Verbesselt, J., Kooistra, L. and Herold, M. 2015. Characterizing forest change using community-based monitoring data and Landsat time series. PLoS ONE Forests, under review.
+**DeVries, B.**, Pratihast, A.K., Verbesselt, J., Kooistra, L. and Herold, M. 2016. Characterizing forest change using community-based monitoring data and Landsat time series. PLoS ONE Forests, in press.&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://github.com/bendv/integrated-lts-cbm" target="_blank">Data and code</a>
 
-Pratihast, A.K., **DeVries, B.**, Avitabile, V., de Bruin, S., Herold, M. and Bergsma, A. 2015. Design and implementation of an interactive web-based near real-time forest monitoring system. PLoS ONE Forests, under review. 
+Pratihast, A.K., **DeVries, B.**, Avitabile, V., de Bruin, S., Herold, M. and Bergsma, A. 2016. Design and implementation of an interactive web-based near real-time forest monitoring system. PLoS ONE Forests, under review. 
 
-Avitabile, V., Herold, M., Heuvelink, G.B.M., Lewis, S.L., Phillips, O.L., Asner, G.P., Asthon, P., Banin, L.F., Bayol, N., Berry, N., Boeckx, P., de Jong, B., **DeVries, B.**, Girardin, C., Kearsley, E., Lindsell, J.A., Lopez-Gonzalez, G., Lucas, R., Malhi, Y., Morel, A.,  Mitchard, E., Nagy, L., Qie, L., Quinones, M., Ryan, C.M., Slik, F., Sunderland, T., Vaglio Laurin, G., Valentini, R., Verbeeck, H., Wijaya, A. and Willcock, S. 2015. An integrated pan-tropical biomass maps using multiple reference datasets. Global Change Biology, accepted.
+Avitabile, V., Herold, M., Heuvelink, G.B.M., Lewis, S.L., Phillips, O.L., Asner, G.P., Asthon, P., Banin, L.F., Bayol, N., Berry, N., Boeckx, P., de Jong, B., **DeVries, B.**, Girardin, C., Kearsley, E., Lindsell, J.A., Lopez-Gonzalez, G., Lucas, R., Malhi, Y., Morel, A.,  Mitchard, E., Nagy, L., Qie, L., Quinones, M., Ryan, C.M., Slik, F., Sunderland, T., Vaglio Laurin, G., Valentini, R., Verbeeck, H., Wijaya, A. and Willcock, S. 2016. An integrated pan-tropical biomass maps using multiple reference datasets. Global Change Biology, doi:10.1111/gcb.13139.&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://doi.org/10.1111/gcb.13139" target="_blank">Manuscript</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.wageningenur.nl/en/Expertise-Services/Chair-groups/Environmental-Sciences/Laboratory-of-Geoinformation-Science-and-Remote-Sensing/Research/Integrated-land-monitoring/Forest_Biomass/Forest-Biomass-downloads.htm" target="_blank">Data</a>
 
-<a href="http://doi.org/10.1016/j.rse.2015.08.020" target="_blank">**DeVries, B.**, Decuyper, M., Verbesselt, J., Zeileis, A., Herold, M. and Joseph, S. 2015. Tracking disturbance-regrowth dynamics in the tropics using structural change monitoring and Landsat time series. Remote Sensing of Environment 169:320-334.</a>
+**DeVries, B.**, Decuyper, M., Verbesselt, J., Zeileis, A., Herold, M. and Joseph, S. 2015. Tracking disturbance-regrowth dynamics in the tropics using structural change monitoring and Landsat time series. Remote Sensing of Environment 169:320-334.&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://doi.org/10.1016/j.rse.2015.08.020" target="_blank">Manuscript</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://github.com/bendv/rgrowth" target="_blank">R package</a>
 
-<a href="http://doi.org/10.1016/j.rse.2015.02.012" target="_blank">**DeVries, B.**, Verbesselt, J., Kooistra L. and Herold, M. 2015. Robust monitoring of small-scale forest disturbances in a tropical montane forest using Landsat time series. Remote Sensing of Environment, 161:107-121.</a>
+**DeVries, B.**, Verbesselt, J., Kooistra L. and Herold, M. 2015. Robust monitoring of small-scale forest disturbances in a tropical montane forest using Landsat time series. Remote Sensing of Environment, 161:107-121.&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://doi.org/10.1016/j.rse.2015.02.012" target="_blank">Manuscript</a>
 
-<a href="http://doi.org/10.3390/f5102464" target="_blank">Pratihast, A.K., **DeVries, B.**, Avitabile, V., de Bruin, S., Kooistra, L. and Herold, M. 2014. Combining satellite data and community-based observations for forest monitoring. Forests, 5:2464-2489.</a>
+Pratihast, A.K., **DeVries, B.**, Avitabile, V., de Bruin, S., Kooistra, L. and Herold, M. 2014. Combining satellite data and community-based observations for forest monitoring. Forests, 5:2464-2489.&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://doi.org/10.3390/f5102464" target="_blank">Manuscript</a>
 
-<a href="http://doi.org/10.3390/land3031137" target="_blank">Dresen, E., **DeVries, B.**, Herold, M., Verchot, L. and M&#252;ller, R. 2014. Fuelwood savings and carbon emission reductions by the use of improved cooking stoves in an Afromontane forest, Ethiopia. Land, 3(3):1137-1157.</a>
+Dresen, E., **DeVries, B.**, Herold, M., Verchot, L. and M&#252;ller, R. 2014. Fuelwood savings and carbon emission reductions by the use of improved cooking stoves in an Afromontane forest, Ethiopia. Land, 3(3):1137-1157.&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://doi.org/10.3390/land3031137" target="_blank">Manuscript</a>
 
-<a href="http://doi.org/10.1016/j.bbrc.2006.03.220" target="_blank">Buerger, C., **DeVries, B.** and Stambolic, V. 2006. Localization of Rheb to the endomembrane is critical for its signaling function. Biochemical and Biophysical Research Communications, 344(3):869-880.</a>
+Buerger, C., **DeVries, B.** and Stambolic, V. 2006. Localization of Rheb to the endomembrane is critical for its signaling function. Biochemical and Biophysical Research Communications, 344(3):869-880.&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://doi.org/10.1016/j.bbrc.2006.03.220" target="_blank">Manuscript</a>
 
 
 ### Peer-reviewed book chapter
 
-<a href="http://www.cambridge.org/us/academic/subjects/law/environmental-law/law-tropical-forests-and-carbon-case-redd" target="_blank">**DeVries, B.** and Herold, M. 2013. The Science of Measuring, Reporting and Verification (MRV). In R. Lyster, C. MacKenzie, & C. McDermott (Eds.), Law, Tropical Forests and Carbon: The Case of REDD+, pp. 151-183. Cambridge: Cambridge Univ Press.</a>
+**DeVries, B.** and Herold, M. 2013. The Science of Measuring, Reporting and Verification (MRV). In R. Lyster, C. MacKenzie, & C. McDermott (Eds.), Law, Tropical Forests and Carbon: The Case of REDD+, pp. 151-183. Cambridge: Cambridge Univ Press.&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.cambridge.org/us/academic/subjects/law/environmental-law/law-tropical-forests-and-carbon-case-redd" target="_blank">Book</a>
 
 
 ### Other scientific publications
 
-<a href="http://doi.org/10.13140/RG.2.1.2112.8409" target="_blank">**DeVries, B.** 2015. Monitoring tropical forest dynamics using Landsat time series and community-based data. PhD thesis, Wageningen University, The Netherlands. 171 p.</a>
+**DeVries, B.** 2015. Monitoring tropical forest dynamics using Landsat time series and community-based data. PhD thesis, Wageningen University, The Netherlands. 171 p.&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://doi.org/10.13140/RG.2.1.2112.8409" target="_blank">Thesis</a>
 
 **DeVries, B.**, Verbesselt, J., Kooistra, L. and Herold, M. 2014. Detecting tropical deforestation and degradation using Landsat time series. In International Geoscience and Remote Sensing Symposium, 13-18 July 2014, Quebec, QC, Canada.
 
