@@ -1,12 +1,32 @@
-# Site settings
 title: Ben DeVries
-email: devries.br@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Researcher in land cover change monitoring using satellite time series data
-baseurl: # the subpath of your site, e.g. /blog/
-url: # the base hostname & protocol for your site
-twitter_username: onchante  
-github_username:  bendv
+description: Remote sensing scientist interested in land cover change
 
-# Build settings
-markdown: kramdown
+url: http://bendevries.ca
+baseurl: ""
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+markdown: redcarpet
+highlighter: pygments
+gems: [jekyll-paginate]
+paginate: 5
+
+navigation:
+ - title: Home
+   url: /index.html
+ - title: About
+   url: /about
+ - title: Publications
+   url: /publications
+ - title: Code
+   url: /code
+ - title: Contact
+   url: /contact
+
+social:
+   github: bendv
+   twitter: onchante
+   soundcloud: bdv
+   email: devries.br@gmail.com
+
+google_analytics: "UA-72637604-1"
