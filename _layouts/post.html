@@ -8,9 +8,13 @@ layout: default
       </div>
   {% endif %}
   <h1 class="postTitle">{{ page.title }}</h1>
-  <p class="meta">{{ page.date | date: '%B %d, %Y' }} | <span class="time">{{ page.content | number_of_words | divided_by:180 }}</span> Minute Read</p>
+  <p class="meta">{{ page.date | date: '%B %d, %Y' }}</p>
   
   {{ content }}
+
+  <!-- TWITTER BUTTON -->
+  <p class="copy"><small><a href="https://twitter.com/share" class="twitter-share-button"{count} data-via="onchante">Tweet about it</a></small>
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></p>
 
   <!-- POST NAVIGATION -->
   <div class="postNav clearfix">
@@ -27,6 +31,6 @@ layout: default
         <img src="{{ '/assets/img/' | prepend: site.baseurl | append: page.next.image }}" alt="">
       {% endif %} 
       </a>
-    {% endif %} 
+    {% endif %}
   </div>
 </div>
