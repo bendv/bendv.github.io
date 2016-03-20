@@ -14,14 +14,12 @@ paginate: 5
 navigation:
  - title: Home
    url: /index.html
- - title: About
-   url: /about
  - title: Publications
-   url: /publications
+   url: /publications.html
  - title: Code
-   url: /code
+   url: /code.html
  - title: Contact
-   url: /contact
+   url: /contact.html
 
 social:
    github: bendv

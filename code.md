@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Code
+permalink: /code.html
 ---
 
 <div class="post">
