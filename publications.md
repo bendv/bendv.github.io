@@ -6,9 +6,9 @@ permalink: /publications.html
 
 ### Peer-reviewed journal publications
 
-**DeVries, B.**, Pratihast, A.K., Verbesselt, J., Kooistra, L. and Herold, M. 2016. Characterizing forest change using community-based monitoring data and Landsat time series. PLoS ONE Forests, in press.&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://github.com/bendv/integrated-lts-cbm" target="_blank">Data and code</a>
+**DeVries, B.**, Pratihast, A.K., Verbesselt, J., Kooistra, L. and Herold, M. 2016. Characterizing forest change using community-based monitoring data and Landsat time series. PLoS ONE, in press.&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://github.com/bendv/integrated-lts-cbm" target="_blank">Data and code</a>
 
-Pratihast, A.K., **DeVries, B.**, Avitabile, V., de Bruin, S., Herold, M. and Bergsma, A. 2016. Design and implementation of an interactive web-based near real-time forest monitoring system. PLoS ONE Forests, under review. 
+Pratihast, A.K., **DeVries, B.**, Avitabile, V., de Bruin, S., Herold, M. and Bergsma, A. 2016. Design and implementation of an interactive web-based near real-time forest monitoring system. PLoS ONE, in press.
 
 Avitabile, V., Herold, M., Heuvelink, G.B.M., Lewis, S.L., Phillips, O.L., Asner, G.P., Asthon, P., Banin, L.F., Bayol, N., Berry, N., Boeckx, P., de Jong, B., **DeVries, B.**, Girardin, C., Kearsley, E., Lindsell, J.A., Lopez-Gonzalez, G., Lucas, R., Malhi, Y., Morel, A.,  Mitchard, E., Nagy, L., Qie, L., Quinones, M., Ryan, C.M., Slik, F., Sunderland, T., Vaglio Laurin, G., Valentini, R., Verbeeck, H., Wijaya, A. and Willcock, S. 2016. An integrated pan-tropical biomass maps using multiple reference datasets. Global Change Biology, doi:10.1111/gcb.13139.&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://doi.org/10.1111/gcb.13139" target="_blank">Manuscript</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.wageningenur.nl/en/Expertise-Services/Chair-groups/Environmental-Sciences/Laboratory-of-Geoinformation-Science-and-Remote-Sensing/Research/Integrated-land-monitoring/Forest_Biomass/Forest-Biomass-downloads.htm" target="_blank">Data</a>
 

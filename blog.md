@@ -4,7 +4,7 @@ title: Blog
 permalink: /blog.html
 ---
 
-<div class="post" id="home">
+<div class="post" id="blog">
   <ul class="posts noList">
     {% for post in paginator.posts %}
       <li>
