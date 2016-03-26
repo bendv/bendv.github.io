@@ -3,10 +3,24 @@ layout: default
 title: Ben DeVries
 ---
 
-<div class="post" id="home">
-	<p>I am a remote sensing scientist interested in monitoring land cover change dynamics using a variety of data sources, including optical, radar and in situ data. I am currently a post-doctoral researcher at the Department of Geographical Sciences at the University of Maryland. My research interests involve mapping and monitoring surface water inundation at high temporal resolution using multi-sensor data.</p>
-
-	<p>I completed and defended my PhD at Wageningen University in the Netherlands in October 2015. My thesis was entitled "Monitoring tropical forest dynamics using Landsat time series and community-based data" and is available for download <a href="http://doi.org/10.13140/RG.2.1.2112.8409" target="_blank">here</a>.</p>
-
-	<img src="{{ '/assets/img/me.jpg' | prepend: site.baseurl }}" alt=""> 
+<div class="home" id="home">
+  <h2 class="pageTitle">Recent Posts</h2>
+  <ul class="posts noList">
+    {% for post in paginator.posts %}
+      <li>
+        <span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
+        <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+        <p class="description">{% if post.description %}{{ post.description | strip_html | split: '<!--break-->' }}{% else %}{{ post.content | strip_html | split: '<!--break-->' }}{% endif %}</p>
+      </li>
+    {% endfor %}
+  </ul>
+  <!-- Pagination links -->
+  <div class="pagination">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="previous button__outline">Newer Posts</a> 
+    {% endif %}
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next button__outline">Older Posts</a>
+    {% endif %}
+  </div>
 </div>

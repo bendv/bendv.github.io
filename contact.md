@@ -5,7 +5,7 @@ permalink: /contact.html
 ---
 
 <div id="contact">
-  <h1 class="pageTitle">Contact Me</h1>
+  <h2 class="pageTitle">Contact Me</h2>
   <div class="contactContent">
   Want to get in touch? Fill in the form to the right, and I'll get back to you as soon as I can!
   </div>

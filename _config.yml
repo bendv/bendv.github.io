@@ -10,10 +10,13 @@ markdown: kramdown
 highlighter: rouge
 gems: [jekyll-paginate]
 paginate: 5
+excerpt_separator: "<!--###-->"
 
 navigation:
  - title: Home
    url: /index.html
+ - title: About me
+   url: /about.html
  - title: Publications
    url: /publications.html
  - title: Code
