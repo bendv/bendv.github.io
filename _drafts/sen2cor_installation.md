@@ -20,9 +20,38 @@ As you can see in the messages from the installation process, you need to migrat
 
 If all went well, you should be able to run the ```L2A_Process``` script by now. Run it with the ```--help``` flag, and if there are no errors, you (probably) have a working installation!
 
-Alas, I still didn't -- I got a warning message saying my HDF5 headers did not match my install version. I haven't been able to figure this one out quite yet, but there is an environment variable - ```HDF5_DISABLE_VERSION_CHECK``` that can be set to ```1``` to ignore this prompt. This can actually be set specifically for the current conda environment by creating an ```env_vars.sh``` 
+Alas, I still didn't -- I got a warning message saying my HDF5 headers did not match my install version. I haven't been able to figure this one out quite yet, but there is an environment variable - ```HDF5_DISABLE_VERSION_CHECK``` that can be set to ```1``` to ignore this prompt. This can actually be set specifically for the current conda environment by creating an ```env_vars.sh``` script. 
+
+```bash
+cd /my_home_dir/.conda/envs/s2c_206/etc/conda/activate.d
+touch env_vars.sh
+gedit env_vars.sh
+```
+
+`env_vars.sh` should look like this:
+
+```bash
+#!/bin/bash
+export HDF5_DISABLE_VERSION_CHECK=1
+```
+
+There is an analogous deactivate script for when you deactivate this environment:
+
+```bash
+cd /my_home_dir/.conda/envs/s2c_206/etc/conda/deactivate.d
+touch env_vars.sh
+gedit env_vars.sh
+```
+
+...which should look like this:
+
+```bash
+#!/bin/bash
+unset HDF5_DISABLE_VERSION_CHECK
+```
 
 
+## References
 
 
 
