@@ -6,26 +6,30 @@
 
 
 // Our variables
-$base-font-family: Helvetica, Arial, sans-serif;
-$base-font-size:   16px;
+$base-font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+$base-font-size:   .95em;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+$text-color:       #111111;
+$background-color: #F2F2F5; //#fdfdfd;
+$brand-color:      #B29200; //#0077CC;
+$header-bg:        #3E3EA8; //#0052BF;
+$header-line:      #2E2D45; //#001B40;
+$h1-color:         #0000A8;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
+
 // Width of the content area
-$content-width:    800px;
+$content-width:    950px;
 
 $on-palm:          600px;
-$on-laptop:        800px;
+$on-laptop:        950px;
 
 
 
@@ -46,7 +50,10 @@ $on-laptop:        800px;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
+        "header",
+	"mobile-header",
         "base",
         "layout",
-        "syntax-highlighting"
+        "syntax-highlighting",
+	"fancy-image"
 ;

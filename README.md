@@ -1,1 +1,4 @@
-My homepage using the [Long Haul](http://brianmaierjr.com/long-haul) template by [@brianmaierjr](http://github.com/brianmaierjr).
+Steve's No-Good-Very-Bad Jekyll Theme
+=====================================
+
+This is my personal site, adapted from [Steve's No-Good-Very-Bad Jekyll Theme](http://svmiller.github.io)

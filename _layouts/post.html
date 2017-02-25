@@ -2,35 +2,22 @@
 layout: default
 ---
 <div class="post">
-  {% if page.image %}
-    <div class="featuredImage">
-        <img src="{{ '/assets/img/' | prepend: site.baseurl | append: page.image }}" alt="" />
-      </div>
-  {% endif %}
-  <h1 class="postTitle">{{ page.title }}</h1>
-  <p class="meta">{{ page.date | date: '%B %d, %Y' }}</p>
-  
-  {{ content }}
 
-  <!-- TWITTER BUTTON -->
-  <p class="copy"><small><a href="https://twitter.com/share" class="twitter-share-button"{count} data-via="onchante">Tweet about it</a></small>
-  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></p>
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <p class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }} by {% if page.author %} {{ page.author }}{% endif %}  
+{% if page.categories %}
+  in
+  {% for cat in page.categories %}
+  <a href="/categories/#{{ cat }}" title="{{ cat }}">{{ cat }}</a>&nbsp;
+  {% endfor %}
 
-  <!-- POST NAVIGATION -->
-  <div class="postNav clearfix">
-    {% if page.previous.url %} 
-      <a class="prev{% if page.previous.image %} image{% endif %}" href="{{ page.previous.url | prepend: site.baseurl }}"><span>&laquo;&nbsp;{{ page.previous.title }}</span>
-      {% if page.previous.image %} 
-        <img src="{{ '/assets/img/' | prepend: site.baseurl | append: page.previous.image }}" alt="">
-      {% endif %}
-    </a>
-    {% endif %}  
-    {% if page.next.url %}  
-      <a class="next{% if page.next.image %} image{% endif %}" href="{{ page.next.url | prepend: site.baseurl }}"><span>{{ page.next.title }}&nbsp;&raquo;</span>
-      {% if page.next.image %} 
-        <img src="{{ '/assets/img/' | prepend: site.baseurl | append: page.next.image }}" alt="">
-      {% endif %} 
-      </a>
-    {% endif %}
-  </div>
+{% endif %}
+</p>
+  </header>
+
+  <article class="post-content">
+    {{ content }}
+  </article>
+
 </div>
