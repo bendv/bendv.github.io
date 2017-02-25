@@ -1,0 +1,478 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Ben/Projects/website/bendv.github.io/_drafts/s2_download.md",
+		"/Users/Ben/Projects/website/bendv.github.io/_posts/2016-05-15-nasa_gsfc.md",
+		"/Users/Ben/Projects/website/nikola_test/conf.py",
+		"/Users/Ben/.bash_profile",
+		"/Users/Ben/Desktop/uwo/notes_Irena",
+		"/Users/Ben/Desktop/notes_Irena",
+		"/Users/Ben/Desktop/uwo/2016-10-11_notes_irena_david",
+		"/Users/Ben/Desktop/2016-10-11_notes_irena_david",
+		"/Users/Ben/Projects/papers/opt_methods_paper/README.md",
+		"/Users/Ben/Projects/cpp/coursera/01_assign.c",
+		"/Users/Ben/Projects/cpp/coursera/craps.cpp",
+		"/Users/Ben/Projects/cpp/coursera/generics.cpp",
+		"/Users/Ben/Projects/cpp/coursera/swap.cpp",
+		"/Users/Ben/Desktop/MRD_review/mrd_review.md",
+		"/Users/Ben/Desktop/mrd_review.md",
+		"/Users/Ben/Desktop/SESYNC Palmer Wetland meeting",
+		"/Users/Ben/Projects/python/swf_predict/scripts/batch_dswe.sh",
+		"/Users/Ben/Projects/python/waffls/scripts/swf_tile_tests.sh",
+		"/Users/Ben/Projects/python/waffls/scripts/run_swf_tile.py",
+		"/Users/Ben/Projects/python/swf_predict/swf_predict.py",
+		"/Users/Ben/Projects/python/waffls/waffls/tilesample.py",
+		"/Users/Ben/Projects/nex/nex_readme.md",
+		"/Users/Ben/Projects/python/waffls/waffls/main.py",
+		"/Users/Ben/Projects/python/waffls/waffls/__init__.py",
+		"/Users/Ben/Projects/python/waffls/waffls/tilesample/README.md",
+		"/Users/Ben/Projects/python/waffls/README.md",
+		"/Users/Ben/Projects/python/waffls/waffls/_dswe.pyx",
+		"/Users/Ben/Projects/python/waffls/waffls/tilesample/main.py",
+		"/Users/Ben/Projects/python/bulc/bulc.pyx",
+		"/Users/Ben/Desktop/lc_prob.pyx.py",
+		"/Users/Ben/Projects/python/waffls/waffls/tilesample/__init__.py",
+		"/Users/Ben/Projects/website/bendv.github.io/_drafts/kafa-bfastmonitor.md",
+		"/Users/Ben/Library/Preferences/com.apple.LaunchServices.plist",
+		"/Users/Ben/Projects/python/waffls/setup.py",
+		"/Users/Ben/Projects/python/waffls/waffls/_proximity.pyx",
+		"/Users/Ben/Projects/python/waffls/waffls/_main.py",
+		"/Users/Ben/Projects/python/waffls/waffls/proximity.pyx.py",
+		"/Users/Ben/Projects/python/waffls/.gitignore",
+		"/Users/Ben/Projects/python/waffls/waffls/get_sceneinfo.py",
+		"/Users/Ben/Projects/python/raster_tiles/raster_tiles/main.py",
+		"/Users/Ben/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/Ben/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Ben/Projects/LCLUC/meetings/README.md",
+		"/Users/Ben/Projects/papers/opt_methods_paper/text.md",
+		"/Users/Ben/Desktop/jwj_sceneid.txt",
+		"/Users/Ben/Projects/python/swf_predict/zz_old/dnns.py",
+		"/Users/Ben/Projects/python/swf_predict/test/LE70140331999266EDC01.xml",
+		"/Users/Ben/Desktop/LCLUC_Inundation_project_telecon.mdown",
+		"/Users/Ben/Desktop/jwj_sceneid",
+		"/Users/Ben/Projects/python/swf_predict/swf_NEW.py",
+		"/Users/Ben/Projects/python/dswe/setup.py",
+		"/Users/Ben/Projects/python/dswe/bin/calc_dswe",
+		"/Users/Ben/Projects/python/dswe/dswe/dswe.pyx",
+		"/Users/Ben/Desktop/SESYNC_030816/NASA IDS Call Notes Summary",
+		"/Users/Ben/Desktop/SESYNC_030816/SESYNC, Annapolis - August 3, 2016.md",
+		"/Users/Ben/Desktop/SESYNC_030816/SESYNC, Annapolis - August 3, 2016",
+		"/Users/Ben/Projects/python/swf_predict/TODO.md",
+		"/Users/Ben/Projects/python/swf_predict/dsweimg.pyx",
+		"/Users/Ben/Projects/python/swf_predict/dsweimg.c",
+		"/Users/Ben/Desktop/meng_manuscript",
+		"/Users/Ben/Projects/cython_tutorial/convolve_py.py",
+		"/Users/Ben/Desktop/sebangau_scenes.txt",
+		"/Users/Ben/Desktop/dswe_time_series.R",
+		"/Users/Ben/Desktop/BrianKillough.md",
+		"/Users/Ben/Projects/python/swf_predict/swf_preprocess.py",
+		"/Users/Ben/Projects/python/swf_predict/dswe.py",
+		"/Users/Ben/Projects/python/swf_predict/calc_dswe.py",
+		"/Users/Ben/Library/Application Support/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/Users/Ben/Projects/python/swf_python/swf_preprocess.py",
+		"/Users/Ben/Projects/python/swf_python/cloud_buffer.py",
+		"/Users/Ben/Projects/python/swf_python/TODO.md",
+		"/Users/Ben/Projects/website/music/_config.yml",
+		"/Users/Ben/Projects/papers/flood_paper/manuscript.md",
+		"/Users/Ben/Desktop/AGU_abstract",
+		"/Users/Ben/Desktop/2nd Review - LSUWEI paper",
+		"/Users/Ben/Desktop/L8_scenes.txt",
+		"/Users/Ben/Desktop/eu_floods/scenelist_LC8.txt",
+		"/Users/Ben/Desktop/eu_floods/scenelist_LC8",
+		"/Users/Ben/Desktop/eu_floods/scenelist.txt",
+		"/Users/Ben/Projects/PhD_Thesis/latex/DeVries_phd_print_version.tex",
+		"/Users/Ben/Projects/presentations/nasa_goddard_sfc_talk/index.html",
+		"/Users/Ben/Desktop/texas_dl.txt",
+		"/Users/Ben/Desktop/texas.geojson",
+		"/Users/Ben/Projects/python/swf_python/swf_predict_SAR.py",
+		"/Users/Ben/Projects/papers/lit_review/lit_review.tex",
+		"/Users/Ben/Projects/python/swf_python/swf_predict.py",
+		"/Users/Ben/Projects/python/swf_python/swf_batch.py",
+		"/Users/Ben/Projects/python/swf_python/swf_predict_new.py",
+		"/Users/Ben/Desktop/donana.geojson",
+		"/Users/Ben/Desktop/delmarva.geojson",
+		"/Users/Ben/Desktop/sflorida.json",
+		"/Users/Ben/Desktop/sentinel_footprints/spain.json",
+		"/Users/Ben/Desktop/spain.json",
+		"/Users/Ben/Desktop/australia.json",
+		"/Users/Ben/Projects/website/bendv.github.io/publications.md",
+		"/Users/Ben/Projects/presentations/geog_umd_happyhour_2016-03-23/index.html",
+		"/Users/Ben/Projects/python/swf_python/dswe_giw_rf_iterate.py",
+		"/Users/Ben/Projects/pone_paper_data/integrated-lts-cbm/README.md",
+		"/Users/Ben/Desktop/ecol_inf_review.md",
+		"/Users/Ben/Projects/website/templates/long-haul/_posts/2014-12-11-image-in-post.markdown",
+		"/Users/Ben/Projects/website/bendv.github.io/_template_posts/2014-12-14-featured-image.markdown",
+		"/Users/Ben/Projects/website/bendv.github.io/README.md",
+		"/Users/Ben/Projects/website/bendv.github.io/config.rb",
+		"/Users/Ben/Projects/website/bendv.github.io/template_posts/2014-12-15-example-post-formatting.markdown",
+		"/Users/Ben/Projects/website/bendv.github.io/index.html",
+		"/Users/Ben/Projects/website/bendv.github.io/_posts/2016-01-20-leaflet.md",
+		"/Users/Ben/Projects/website/bendv.github.io/code.md",
+		"/Users/Ben/Projects/website/bendv.github.io/_posts/zzz-leaflet.md",
+		"/Users/Ben/Projects/website/revise/publications.md",
+		"/Users/Ben/Projects/website/revise/code.md",
+		"/Users/Ben/Projects/website/revise/index.html",
+		"/Users/Ben/Projects/website/revise/_config.yml",
+		"/Users/Ben/Projects/website/revise/about.md",
+		"/Users/Ben/Projects/website/revise/articles.md",
+		"/Users/Ben/Projects/website/revise/_layouts/default.html",
+		"/Users/Ben/Projects/website/revise/_layouts/post.html",
+		"/Users/Ben/Projects/website/revise/assets/scss/_config.scss",
+		"/Users/Ben/Projects/website/revise/assets/scss/style.scss",
+		"/Users/Ben/Projects/website/revise/README.md",
+		"/Volumes/Untitled/2016-03-23_geog_happyhour/presentation.html",
+		"/Users/Ben/Projects/website/templates/centrarium/_config.yml",
+		"/Users/Ben/Projects/website/templates/poole/_config.yml",
+		"/Users/Ben/Projects/website/templates/startbootstrap-clean-blog-jekyll/_config.yml",
+		"/Users/Ben/Projects/website/templates/fengzhichu-theme/_config.yml",
+		"/Users/Ben/Projects/website/templates/minimal-mistakes/_config.yml",
+		"/Users/Ben/Projects/website/bendv.github.io/_layouts/post.html",
+		"/Users/Ben/Projects/website/bendv.github.io/_config.yml",
+		"/Users/Ben/Projects/website/bendv.github.io/_layouts/default.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"dswe_probs",
+			"ndims",
+			"subprocess",
+			"profile",
+			"not",
+			"highlight",
+			"language",
+			"\\t",
+			"auto",
+			"suggest",
+			"\\citet{",
+			"}",
+			"\\citep{",
+			"\\citep",
+			"getSceneinfo",
+			"\\t",
+			"outdir",
+			"\\t",
+			"x[6]",
+			"x[5]",
+			"x[4]",
+			"x[3]",
+			"x[2]",
+			"x[1]",
+			"x[0]",
+			"x[7]",
+			"x[6]",
+			"x[5]",
+			"x[4]",
+			"x[3]",
+			"x[2]",
+			"x[1]",
+			"x[0]",
+			" ",
+			"\\t",
+			"rio",
+			"\\t",
+			"_",
+			"inpfl",
+			"\\t",
+			"os.file.remove",
+			"compfl",
+			"FLDR",
+			".bashrc",
+			"$ ",
+			"pygments",
+			"\\\\changed",
+			"-lcrt0.o",
+			"code",
+			"<img",
+			"<img>",
+			"image",
+			"LC80150332015101LGN00",
+			"LC80140332015094LGN00",
+			"paginator",
+			"post",
+			"b3",
+			"q",
+			"j",
+			".copy",
+			"copy",
+			"h3",
+			"Rgrowth",
+			"kafa",
+			"figure",
+			"Figure",
+			"Figs.",
+			"Figures",
+			"Figure",
+			"def_time_series",
+			"defdeg_examples",
+			"no_data",
+			"local_data",
+			"sec:",
+			"S~",
+			"Fig_S1",
+			"local_data",
+			"S1_Fig",
+			"local_data",
+			"\\beginsupplement",
+			"S1_Fig",
+			"S1_fig",
+			"DeVries_phd_print_version",
+			"\\}\\}",
+			"(\\\\changed\\{)(.*)(\\})",
+			"print.pubmed output",
+			"print.eprint output",
+			"print.doi output",
+			"print.url output",
+			"%print.doi output",
+			"print.doi output",
+			"print.url output",
+			"HEAD",
+			"canopy fraction",
+			"canopy",
+			"fraction",
+			"canopy fraction",
+			"frequency",
+			"}\n",
+			"cited",
+			"append",
+			"CO$_{2}$",
+			"[H]",
+			"\\subsection*{",
+			"\\subsubsection{",
+			"\\subsection*{",
+			"\\subsubsection{",
+			"\\subsection*{",
+			"\\changed",
+			"\\subsubsection{",
+			"\\subsection*{",
+			"\\subsubsection{",
+			"\\subsection*{",
+			"\\subsubsection{",
+			"\\subsection*{",
+			"xxx",
+			"site",
+			"xxx",
+			"sideways",
+			"xxx",
+			"quantitative",
+			"continuous",
+			"\\\\citeauthor",
+			"\\\\citet\\*",
+			"&",
+			"Chapter",
+			"Chapter~.\\}",
+			"\\\\ref\\{cha:Chapter"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"dswe_priors",
+			"ndim",
+			"    ",
+			"@",
+			"]",
+			"[@",
+			"get_sceneinfo",
+			"    ",
+			"OUTDIR",
+			"    ",
+			"SWIR2",
+			"SWIR1",
+			"NIR",
+			"AWESH",
+			"MBSRN",
+			"MBSRV",
+			"MNDWI",
+			"MBSRV",
+			"MNDWI",
+			"SWIR2",
+			"SWIR1",
+			"NIR",
+			"R",
+			"G",
+			"B",
+			"\\n",
+			"    ",
+			"rasterio",
+			"    ",
+			"os.remove",
+			".bashrc.mine",
+			"",
+			"LE70140332015102EDC00",
+			"LC80150332015101LGN00",
+			"rgrowth",
+			"SWON",
+			"sec:local_data",
+			"local_data",
+			"$fullfile",
+			"\\2",
+			"%print.pubmed output",
+			"%print.eprint output",
+			"%print.doi output",
+			"\\CO",
+			"\\subsection{",
+			"\\subsubsection*{",
+			"\\subsection{",
+			"\\subsubsection*{",
+			"\\subsection{",
+			"\\subsubsection*{",
+			"\\subsection{",
+			"\\subsubsection*{",
+			"\\subsection{",
+			"\\subsubsection*{",
+			"\\subsection{",
+			"Chapter~.",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "s2_download.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 134.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
