@@ -12,7 +12,6 @@ Collaborators:
 * Irena Creed - [University of Western Ontario](http://www.uwo.ca/biology/faculty/creed/)
 * Mark Carroll - [NASA Goddard Space Flight Center](https://science.gsfc.nasa.gov/sed/bio/mark.carroll)
 
-
 ### Tropical forest change
 Collaborators:
 * Martin Herold - [Wageningen University](http://www.wur.nl/en/Persons/prof.dr.-M-Martin-Herold.htm)
