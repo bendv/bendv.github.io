@@ -1,6 +1,7 @@
 ---
 layout: page
 title: rgrowth - Tracking disturbance-regrowth dynamics
+permalink: /rgrowth/
 ---
 
 <script type="text/x-mathjax-config">
@@ -48,7 +49,27 @@ NDMI is sensitive to moisture content in vegetation, which makes it a better ind
 
 ```r
 class(ndmi)
+```
+
+```r
+## [1] "zoo"
+```
+
+```r
 summary(ndmi)
+```
+
+```r
+##      Index                 ndmi       
+##  Min.   :1990-05-29   Min.   :0.0505  
+##  1st Qu.:1999-10-13   1st Qu.:0.3338  
+##  Median :2004-06-20   Median :0.3694  
+##  Mean   :2003-09-05   Mean   :0.3528  
+##  3rd Qu.:2008-05-06   3rd Qu.:0.3951  
+##  Max.   :2013-07-07   Max.   :0.5086
+```
+
+```r
 plot(ndmi, type = 'b', cex = 0.5)
 ```
 
@@ -61,10 +82,32 @@ From the plot above, it is obvious that there was a disturbance in this time ser
 ```r
 bts <- bfastts(ndmi, dates = time(ndmi), type = 'irregular')
 bfm <- bfastmonitor(bts, start = c(2004, 1), formula = response~harmon, order = 1, plot = TRUE)
-print(bfm)
 ```
 
 ![ndmi_bfm](images/ndmi_bfm.png){:width="600px"}
+
+```r
+print(bfm)
+```
+
+```r
+## 
+## BFAST monitoring
+## 
+## 1. History period
+## Stable period selected: 1990(149)--2003(337)
+## Length (in years): 13.515068
+## Model fit:
+## (Intercept)   harmoncos   harmonsin 
+##  0.36319420 -0.02168009 -0.01318084 
+## R-squared: 0.132893
+## 
+## 
+## 2. Monitoring period
+## Monitoring period assessed: 2004(1)--2013(188)
+## Length (in years): 9.512329
+## Break detected at: 2005(294)
+```
 
 ## tsreg: monitoring for post-disturbance regrowth
 
@@ -92,6 +135,15 @@ Note that when the start date and the change date are different, the change (bre
 print(reg2)
 ```
 
+```r
+## 
+## Start of Monitoring Period:  2005
+## Initial Disturbance: 2005.803
+## Regrowth onset: 2009.175
+## Duration (years) of post-regrowth stability: 4.117808
+## Proportion of pre-regrowth MOSUM > critical boundary: 1
+```
+
 Note in the plot above that the model only included a very small portion of the historical data, and successfully avoided the outlier observations in the fitting procedure. If we had used all data in our history model (by setting `history = 'all'`), the noise component in the model would have been much larger, which has an effect on the MOSUM values.
 
 ```r
@@ -115,3 +167,6 @@ In this case, regrowth is flagged at the cross-over point with no consideration 
 DeVries, B., M. Decuyper, J. Verbesselt, A. Zeileis, M. Herold and S. Joseph. 2015. Tracking disturbance-regrowth dynamics in the tropics using structural change detection and Landsat time series. *Remote Sensing of Environment* 169:320-334. DOI: [10.1016/j.rse.2015.08.020](http://doi.org/10.1016/j.rse.2015.08.020).
 
 Verbesselt, J., A. Zeileis and M. Herold. 2012. Near real-time disturbance detection using satellite image time series. *Remote Sensing of Environment* 123:98-108. DOI: [10.1016/j.rse.2012.02.022](http://doi.org/10.1016/j.rse.2012.02.022).
+
+<br>
+<a href="#">Top of page</a>
