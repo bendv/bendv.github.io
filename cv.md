@@ -33,7 +33,7 @@ Available [here](../publications)
 * [course materials](http://geoscripting-wur.github.io/).
 
 ### Advanced Earth Observation (GRS-32306)
-*Masters in Geo-Information, Wageningen University*. This course builds upon fundamental concepts covers concepts such as: physical principles in optical remote sensing, radiative transfer modelling, image processing, LiDAR, hyperspectral remote sensing, time series anlaysis, land cover and land cover change mapping. As *teaching assistant*, I was responsible for overseeing practical sessions, where students were given assignments applying theory learned.  
+*Masters in Geo-Information, Wageningen University*. This course builds upon fundamental concepts covers concepts such as: physical principles in optical remote sensing, radiative transfer modelling, image processing, LiDAR, hyperspectral remote sensing, time series anlaysis, land cover and land cover change mapping. As *teaching assistant*, I was responsible for overseeing practical sessions, where students were given assignments applying theory learned in lectures.  
 * [course website](https://ssc.wur.nl/Studiegids/Vak/GRS-32306)  
 
 ### Remote Sensing and GIS Integration (GRS-60312)
