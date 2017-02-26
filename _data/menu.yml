@@ -4,11 +4,14 @@
 - title: "CV"
   href: "/cv/"
 
-- title: "Publications"
+- title: "Pubs"
   href: "/publications/"
 
-- title: "Code"
-  href: "/code/"
+- title: "Talks"
+  href: "/talks/"
+
+- title: "Resources"
+  href: "/resources/"
 
 - title: "Links"
   href: "/links/"

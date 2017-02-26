@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Software & Tutorials
-permalink: /code/
+permalink: /resources/
 ---
 
 Here you can find some of the packages and training materials I have been working on or have contributed to.
