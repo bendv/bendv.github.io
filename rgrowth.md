@@ -73,7 +73,7 @@ summary(ndmi)
 plot(ndmi, type = 'b', cex = 0.5)
 ```
 
-![ndmi](images/ndmi.png){:width="600px"}
+![ndmi](../images/ndmi.png){:width="600px"}
 
 ## bfastmonitor: detecting disturbances
 
