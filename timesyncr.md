@@ -1,7 +1,7 @@
 ---
 layout: page
 title: timeSyncR - Tools for visualizing Landsat time series
-permalink: /timesyncr/
+permalink: /timeSyncR/
 ---
 
 ## Introduction
