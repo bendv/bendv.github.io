@@ -24,7 +24,7 @@ permalink: /rgrowth/
 
 ## Installing rgrowth
 
-Installing `rgrowth` in R is very easy - first install the `devtools` package (if you haven't done so already). If you haven't worked with bfastSpatial yet, you will have to install it from github first and then install `rgrowth` via github and load.
+Installing `rgrowth` in R is very easy - first install the `devtools` package. If you haven't worked with bfastSpatial yet, you will have to install it from github first and then install `rgrowth` via github and load.
 
 ```r
 library(devtools)
@@ -170,5 +170,6 @@ Verbesselt, J., A. Zeileis and M. Herold. 2012. Near real-time disturbance detec
 
 <br>
 <a href="https://github.com/bendv/rgrowth">Source Code</a>
+
 <br>
 <a href="#">Top of page</a>

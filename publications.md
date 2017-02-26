@@ -33,5 +33,5 @@ Buerger, C., **DeVries, B.** and Stambolic, V. 2006. Localization of Rheb to the
 <br>
 ### Conference talks and abstracts
 
-To see a list of conference talks I have given, and other abstracts I have contributed to, click here.
+To see a list of conference talks I have given, and other abstracts I have contributed to, click [here](../talks).
 
