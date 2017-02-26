@@ -84,7 +84,7 @@ bts <- bfastts(ndmi, dates = time(ndmi), type = 'irregular')
 bfm <- bfastmonitor(bts, start = c(2004, 1), formula = response~harmon, order = 1, plot = TRUE)
 ```
 
-![ndmi_bfm](images/ndmi_bfm.png){:width="600px"}
+![ndmi_bfm](../images/ndmi_bfm.png){:width="600px"}
 
 ```r
 print(bfm)
@@ -117,7 +117,7 @@ Using the breakpoint attribute of our result, we can monitor for post-disturbanc
 reg <- tsreg(ndmi, change = bfm$breakpoint, h = 0.5, plot = TRUE)
 ```
 
-![tsreg1](images/tsreg1.png){:width="700px"}
+![tsreg1](../images/tsreg1.png){:width="700px"}
 
 The default start of the monitoring period was set to the break date (from `bfastmonitor()` above), and the history model was determined automatically as a 'stable' portion of the time series preceding that date. If our break date is slightly delayed, we can introduce noise (from the disturbance) to our fitted model. The `startOffset` argument can prevent that. This can be set to an integer (start of monitoring period in years prior to change), or it can be set to `"floor"`, which will set it to the floor of the original change year (e.g. if the change was in 2005.500 -- half way through the year, the monitoring period is set to 2005).
 
@@ -125,7 +125,7 @@ The default start of the monitoring period was set to the break date (from `bfas
 reg2 <- tsreg(ndmi, change = bfm$breakpoint, startOffset = "floor", h = 0.5, plot = TRUE)
 ```
 
-![tsreg2](images/tsreg2.png){:width="700px"}
+![tsreg2](../images/tsreg2.png){:width="700px"}
 
 Note that when the start date and the change date are different, the change (breakpoint) is plotted as a dotted red line in addition to the start of the monitoring period (black dotted line). So, in this case, we have a better fitted model, and a more realistic regrowth detection (dotted blue line).
 
@@ -150,7 +150,7 @@ Note in the plot above that the model only included a very small portion of the 
 reg3 <- tsreg(ndmi, change = bfm$breakpoint, startOffset = "floor", h = 0.5, history='all', plot=TRUE)
 ```
 
-![tsreg3](images/tsreg3.png){:width="700px"}
+![tsreg3](../images/tsreg3.png){:width="700px"}
 
 In this case, the MOSUM values take much longer to reach the critical boundary again. But why is there no regrowth flag when the MOSUM clearly crosses back below the boundary at the end of the time series? This is because we set (by default) the value of the post-regrowth stability criterion (`s`) to 1 year. Suppose we relax that to 0 years (ie. no such criterion).
 
@@ -158,7 +158,7 @@ In this case, the MOSUM values take much longer to reach the critical boundary a
 reg4 <- tsreg(ndmi, change = bfm$breakpoint, startOffset = "floor", h = 0.5, history='all', s=0, plot=TRUE)
 ```
 
-![tsreg4](images/tsreg4.png){:width="700px"}
+![tsreg4](../images/tsreg4.png){:width="700px"}
 
 In this case, regrowth is flagged at the cross-over point with no consideration for whether this return is ephemeral or not.
 
@@ -168,5 +168,7 @@ DeVries, B., M. Decuyper, J. Verbesselt, A. Zeileis, M. Herold and S. Joseph. 20
 
 Verbesselt, J., A. Zeileis and M. Herold. 2012. Near real-time disturbance detection using satellite image time series. *Remote Sensing of Environment* 123:98-108. DOI: [10.1016/j.rse.2012.02.022](http://doi.org/10.1016/j.rse.2012.02.022).
 
+<br>
+<a href="https://github.com/bendv/rgrowth">Source Code</a>
 <br>
 <a href="#">Top of page</a>
