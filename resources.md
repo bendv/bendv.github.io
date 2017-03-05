@@ -4,16 +4,12 @@ title: Software & Tutorials
 permalink: /resources/
 ---
 
-Here you can find some of the packages and training materials I have been working on or have contributed to.
-
-<br>
+Here you can find some of the packages and training materials I have been working on or have contributed to.  
 
 # rgrowth
 Detection of post-disturbance forest regrowth using dense Landsat time series.  
 [Tutorial](http://bendevries.ca/rgrowth)  
 [Source Code](https://github.com/bendv/rgrowth)
-
-<br>
 
 # bfastSpatial
 Tools and utilities for pre-processing and performing change detection using dense Landsat and MODIS time series.  
@@ -21,21 +17,19 @@ Tools and utilities for pre-processing and performing change detection using den
 [Full tutorial](http://loicdtx.github.io/bfastSpatial/)  
 [Source Code](https://github.com/loicdtx/bfastSpatial)
 
-<br>
-
 # timeSyncR
 Implementation of the TimeSync framework in R.  
 [Tutorial](http://bendevries.ca/timeSyncR)  
 [Source Code](https://github.com/bendv/timeSyncR)  
 [Original TimeSync](http://timesync.forestry.oregonstate.edu/)
 
-<br>
-
 # bfastPlot
 Plotting tools for bfast-type analysis using the ggplot2 in R.  
 [Source Code](https://github.com/bendv/bfastPlot)
 
-<br>
+# Geoscripting
+Recently introduced course on scripting for geospatial analysis at Wageningen University. All course materials are open source.
+[Course Materials](https://geoscripting-wur.github.io/)  
 
 # Integrated-LTS-CBM
 Tutorial and source code for the fourth chapter of my PhD, published in PLoS ONE. This demonstrates the use of Landsat time series (LTS) together with Community-Based Monitoring (CBM) data in an Afro-montane forest in southwester Ethiopia.  
