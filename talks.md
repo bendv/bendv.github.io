@@ -6,6 +6,10 @@ permalink: /talks/
 
 Below is a selection of some of the talks I have given in recent years:
 
+DeVries, B., Verbesselt, J., Reiche, J., Pratihast, A.K. and Herold, M. Tracking and characterizing human impacts in tropical forests: Can Landsat go it alone? *Invited paper*, JpGU-AGU Joint Meeting, 20-25 May 2017, Chiba, Japan. [Abstract](https://confit.atlas.jp/guide/event/jpguagu2017/subject/HGG01-04/tables?cryptoId=)
+
+DeVries, B., Huang, W., Huang, C-H., Lang, M.W., Jones, J.W., Creed, I.F. and Carroll, M. Monitoring wetland inundation dynamics from space using a fully automated multi-sensor mapping approach. JpGU-AGU Joint Meeting, 20-25 May 2017, Chiba, Japan. [Abstract](https://confit.atlas.jp/guide/event/jpguagu2017/subject/AHW34-14/tables?cryptoId=)
+
 DeVries, B., Huang, C-H., Huang, W., Jones, J.W., Lang M.W. and Creed, I. Automated quantification of surface water fraction using Landsat and Sentinel-2 data. AGU Fall Meeting, 12-16 December 2016, San Francisco, CA, USA. [Abstract](https://agu.confex.com/agu/fm16/meetingapp.cgi/Paper/136116)
 
 DeVries, B. Tropical forest monitoring using Landsat time series and community-based data. NASA Goddard Space Flight Center, informal lunch talk. 12 May 2016, Greenbelt, MD, USA. [Slides](http://bendevries.ca/nasa_goddard_sfc_talk/)

@@ -98,12 +98,12 @@ Tutoring Alliance Incorporated, Toronto, Canada
 ---
 
 ## Other Professional Experience
-* *ad hoc* reviewer for: Remote Sensing of Environment, Remote Sensing, Remote Sensing of Ecology and Conservation Science of the Total Environment, Ecology and Society, Ecological Informatics
+* *ad hoc* reviewer for: Nature, Remote Sensing of Environment, Remote Sensing, Remote Sensing of Ecology and Conservation, Science of the Total Environment, Ecology and Society, Ecological Informatics
 * Invited speaker at SilvaCarbon training workshop on forest change methods – November 2015, Ho Chi Minh City, Vietnam
 * Coordinated and co-led workshop for the preparation of a REDD+ MRV Road Map in collaboration with the Norwegian Ministry of Climate and Environment, the Ethiopian Ministry of Agriculture and the Ethiopian Environmental Protection Agency, Addis Ababa, Ethiopia – November 2012
-* Designed and conducted various training workshops with the Ethiopian Ministry of Agriculture, Bonga, Ethiopia – 2011-2013
+* Developed and conducted various training workshops with the Ethiopian Ministry of Agriculture, Bonga, Ethiopia – 2011-2013
 * Supervised three MSc thesis project students, Wageningen University, The Netherlands – 2011-2014
-* Designed and conducted training workshops with WWF Indonesia field staff, Palagkaraya, Indonesia – August 2010
+* Developed and conducted training workshops with WWF Indonesia field staff, Palagkaraya, Indonesia – August 2010
 
 ---
 
