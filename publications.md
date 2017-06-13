@@ -7,7 +7,7 @@ permalink: /publications/
 ### 1st-Author peer-reviewed publications
 
 **DeVries, B.**, Huang, C-H., Huang, W., Lang, M., Jones, J.W., Creed, I. and Carroll, M. 2017. 
-Automated quantification of surface water inundation in wetlands using optical satellite imagery. Remote Sensing, *in review*.
+Automated quantification of surface water inundation in wetlands using optical satellite imagery. Remote Sensing, *in revision*.
 
 **DeVries, B.**, Pratihast, A.K., Verbesselt, J., Kooistra, L. and Herold, M. 2016. Characterizing forest change using community-based monitoring data and Landsat time series. PLoS ONE, 11(3):e0147121.&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://dx.doi.org/10.1371/journal.pone.0147121" target="_blank">Manuscript</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://github.com/bendv/integrated-lts-cbm" target="_blank">Data and code</a>
 
