@@ -7,7 +7,7 @@ permalink: /links/
 ## My work
 
 * [Department of Geographical Sciences, University of Maryland](https://geog.umd.edu)  
-* [NASA Land Cover and Land Use Change Programme (LCLUC)](http://lcluc.umd.edu/)  
+* [NASA Land Cover and Land Use Change Program (LCLUC)](http://lcluc.umd.edu/)  
 * [Laboratory of Geo-Information Science and Remote Sensing](http://www.grs.wur.nl)  
 
 ## Friends, Colleagues and Collaborators
