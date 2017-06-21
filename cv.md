@@ -41,7 +41,7 @@ Available [here](../publications)
 * [course website](https://ssc.wur.nl/Studiegids/Vak/GRS-60312)
 
 ### Other training activities
-* Designed and held training workshops with staff of the Ethiopian Ministry of Agriculture in southwestern EThiopia, covering forests and climate change, ecosystem services, forest inventory methods and forest change monitoring (2011-2014).
+* Designed and held training workshops with staff of the Ethiopian Ministry of Agriculture in southwestern Ethiopia, covering forests and climate change, ecosystem services, forest inventory methods and forest change monitoring (2011-2014).
 * Designed and held a 1-week training workshop with WWF field staff in Palangkaraya, Indonesia, cover hydrological modeling and carbon accounting in tropical peatlands. (August 2010).
 * Private tutor for secondary school students in Toronto, Ontario, focussing on pre-university calculus, algebra, chemistry and biology (2003-2007).
 * Other spatial data tools and tutorials [available online](../resources).
