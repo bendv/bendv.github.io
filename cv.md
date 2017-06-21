@@ -53,8 +53,10 @@ Available [here](../publications)
 Department of Geographical Sciences, University of Maryland
 * Leading implementation of a NASA Land Cover and Land Use Change (LCLUC) project related to the quantification of surface water inundation dynamics using Landsat, Sentinel-1 and Sentinel-2 data
 * Designing optical and SAR-based algorithms for the quantification of sub-pixel water fraction at high spatial and temporal resolution
-* Principal Investigator on pending proposal to NASA on detection and monitoring of harmful algal blooms (HABs)
-* co-Investigator on several pending proposals to NSERC and the Government of Alberta related to hydrologic resilience
+* Principal Investigator on pending proposal to NASA related to detection and monitoring of harmful algal blooms (HABs) in inland waters
+* Co-Investigator on three pending proposals to NASA, related to improved wetland classification methods and quantification of wetland hydrologic dynamics
+* Collaborator on two proposals to NSERC and the Government of Alberta, related to agricultural land use, hydrologic resilience and water quality
+
 
 ### Teaching Assistant (11/2013 - 06/2015)
 Wageningen University, The Netherlands
