@@ -13,7 +13,7 @@ community-based data” ([available online](https://doi.org/10.13140/RG.2.1.2112
 * Advisors: Prof. Dr. Martin Herold, Dr. Lammert Kooistra, Dr. Jan Verbesselt
 
 ### M.Sc. (International Land and Water Management), Wageningen University, The Netherlands (2008 – 2010)
-* Major thesis title: “Monitoring the effects of restoration efforts in degraded
+* Major thesis title: “Monitoring the effects of hydrological restoration efforts in degraded
 tropical peatlands, Central Kalimantan, Indonesia”
 * Advisors: Dr. Henk W&ouml;sten, Prof. Dr. Leo Stroosnijder
 
