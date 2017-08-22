@@ -4,7 +4,9 @@ title: Talks
 permalink: /talks/
 ---
 
-Below is a selection of some of the talks I have given in recent years:
+Below is a selection of the talks I have given in recent years:
+
+DeVries, B. Mapping Wetland Inundation Dynamics Using Multi-Source Satellite Data. Wetland Mapping Consortium, Association of State Wetland Managers. 19 July, 2017, webinar. [Slides](https://www.aswm.org/pdf_lib/mapping_webinar/mapping_wetland_inundation_dynamics_using_multi_source_satellite_data_devries_071917.pdf)
 
 DeVries, B., Huang, W., Huang, C-H., Lang, M.W., Jones, J.W., Creed, I.F. and Carroll, M. Monitoring wetland inundation dynamics from space using a fully automated multi-sensor mapping approach. JpGU-AGU Joint Meeting, 20-25 May 2017, Chiba, Japan. [Abstract](https://confit.atlas.jp/guide/event/jpguagu2017/subject/AHW34-14/tables?cryptoId=)
 
