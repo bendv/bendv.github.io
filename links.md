@@ -15,7 +15,8 @@ permalink: /links/
 * [Changemonitor Team @ Wageningen University](http://changemonitor-wur.github.io/)  
 * [Creed Research Group @ University of Western Ontario](http://www.uwo.ca/biology/faculty/creed/)  
 * [Lo&iuml;c Dutrieux](http://www.loicdutrieux.net/)  
-* [Niki De Sy](http://nikidesy.org/)   
+* [Niki De Sy](http://nikidesy.org/)
+* [Laura Duncanson](https://lauraduncanson.com/)   
 
 ## Where else to find me
 
