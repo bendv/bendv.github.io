@@ -8,6 +8,8 @@ Below is a selection of talks I have given in recent years:
 
 DeVries, B. Leveraging multi-source satellite data to monitor surface water dynamics at high spatial and temporal resolution. *Invited talk*, 2017 Silk Road Innovation Forum on Surveying, Remote Sensing and Geographical Information Sciences (IFSRG), 18-21 December 2017, Xi'an, China.
 
+DeVries, B., Huang, C-H., Armston, J. and Huang, W. Robust Flood Monitoring Using Sentinel-1 SAR Time Series. *Poster Presentation*, AGU Fall Meeting, 11-15 December 2017, New Orleans, LA, USA.
+
 DeVries, B., Huang, W., Huang, C-H., Jones, J.W., Lang, M.W., Creed, I.F. and Carroll, M.L. Towards an integrated strategy for monitoring wetland inundation with virtual constellations of optical and radar satellites. AGU Fall Meeting, 11-15 December 2017, New Orleans, LA, USA.
 
 DeVries, B. Mapping Wetland Inundation Dynamics Using Multi-source Satellite Data. *Invited talk*, Molecules to Macrosystems: EPA Research Webinar Series on Aquatic Ecosystem Connectivity and Function, 28 November 2017, Washington, D.C., USA.
