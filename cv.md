@@ -84,7 +84,7 @@ Christian Reformed World Relief Committee (CRWRC), Eastern and Southern Africa
 * Designed and conducted trainings for Monitoring and Evaluation of project activities throughout the region
 * Oversaw the implementation of disaster response projects throughout East and Southern Africa, including project cycle management
 
-### Private Tutor September (09/2002 - 03/2007)
+### Private Tutor (09/2002 - 03/2007)
 Tutoring Alliance Incorporated, Toronto, Canada
 * Taught high school and grammar school students in Mathematics, Science, and the development of general study habits
 
