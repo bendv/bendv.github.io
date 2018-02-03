@@ -14,7 +14,7 @@ community-based data” ([available online](https://doi.org/10.13140/RG.2.1.2112
 
 ### M.Sc. (International Land and Water Management), Wageningen University, The Netherlands (2008 – 2010)
 * Major thesis title: “Monitoring the effects of hydrological restoration efforts in degraded
-tropical peatlands, Central Kalimantan, Indonesia”
+tropical peatlands, Central Kalimantan, Indonesia” ([available online](https://doi.org/10.13140/RG.2.2.19155.07206))
 * Advisors: Dr. Henk W&ouml;sten, Prof. Dr. Leo Stroosnijder
 
 ### Honours B.Sc. (Biochemistry), University of Toronto, Canada (2001 – 2005)
@@ -23,6 +23,11 @@ tropical peatlands, Central Kalimantan, Indonesia”
 ## Publications
 
 Available [here](../publications)
+
+---
+## Conference Presentations
+
+Available [here](../talks)
 
 ---
 ## Teaching Experience
