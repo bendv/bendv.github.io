@@ -32,17 +32,17 @@ Available [here](../talks)
 ---
 ## Teaching Experience
 
-### Geoscripting (GRS-33806)
-*Masters in Geo-Information, Wageningen University*. This course covers concepts and tools in scripting to deal with vector and raster data, spatial data, such as satellite imagery used in remote sensing studies. The focus of the course is on the use of R, python and open source libraries in spatial data analysis. As *teaching assistant*, I authored several modules related to raster data processing, classification and time series analysis, gave lectures and supervised practical sessions and students' independent projects.  
+### Geoscripting
+*GRS-33806, Masters in Geo-Information, Wageningen University*. This course covers concepts and tools in scripting to deal with vector and raster data, spatial data, such as satellite imagery used in remote sensing studies. The focus of the course is on the use of R, python and open source libraries in spatial data analysis. As *teaching assistant*, I authored several modules related to raster data processing, classification and time series analysis, gave lectures and supervised practical sessions and students' independent projects.  
 * [course website](https://ssc.wur.nl/Studiegids/Vak/GRS-33806)  
 * [course materials](http://geoscripting-wur.github.io/).
 
-### Advanced Earth Observation (GRS-32306)
-*Masters in Geo-Information, Wageningen University*. This course builds upon fundamental concepts covers concepts such as: physical principles in optical remote sensing, radiative transfer modelling, image processing, LiDAR, hyperspectral remote sensing, time series anlaysis, land cover and land cover change mapping. As *teaching assistant*, I was responsible for overseeing practical sessions, where students were given assignments applying theory learned in lectures.  
+### Advanced Earth Observation
+*GRS-32306, Masters in Geo-Information, Wageningen University*. This course builds upon fundamental concepts covers concepts such as: physical principles in optical remote sensing, radiative transfer modelling, image processing, LiDAR, hyperspectral remote sensing, time series anlaysis, land cover and land cover change mapping. As *teaching assistant*, I was responsible for overseeing practical sessions, where students were given assignments applying theory learned in lectures.  
 * [course website](https://ssc.wur.nl/Studiegids/Vak/GRS-32306)  
 
-### Remote Sensing and GIS Integration (GRS-60312)
-*Masters in Geo-Information, Wageningen University*. This course is comprised of a group project using GIS and remote sensing data and methods to solve real-world problems. As *guest lecturer*, I introduced students to novel approaches in integrating remote sensing time series data with participatory monitoring or "citizen science" data to improve upon satellite-based methods, using my work in southwestern Ethiopia as a case study.  
+### Remote Sensing and GIS Integration
+*GRS-60312, Masters in Geo-Information, Wageningen University*. This course is comprised of a group project using GIS and remote sensing data and methods to solve real-world problems. As *guest lecturer*, I introduced students to novel approaches in integrating remote sensing time series data with participatory monitoring or "citizen science" data to improve upon satellite-based methods, using my work in southwestern Ethiopia as a case study.  
 * [course website](https://ssc.wur.nl/Studiegids/Vak/GRS-60312)
 
 ### Other training activities
@@ -56,12 +56,9 @@ Available [here](../talks)
 ## Professional Experience
 ### Post-Doctoral Research Associate (02/2016 - Present)
 Department of Geographical Sciences, University of Maryland
+* Expected promotion to Assistant Research Professor as of July 1, 2018
 * Leading implementation of a NASA Land Cover and Land Use Change (LCLUC) project related to the quantification of surface water inundation dynamics using Landsat, Sentinel-1 and Sentinel-2 data
 * Designing optical and SAR-based algorithms for the quantification of sub-pixel water fraction at high spatial and temporal resolution
-* Principal Investigator on pending proposal to NASA related to detection and monitoring of harmful algal blooms (HABs) in inland waters
-* Co-Investigator on three pending proposals to NASA, related to improved wetland classification methods and quantification of wetland hydrologic dynamics
-* Collaborator on two proposals to NSERC and the Government of Alberta, related to agricultural land use, hydrologic resilience and water quality
-
 
 ### Teaching Assistant (11/2013 - 06/2015)
 Wageningen University, The Netherlands
