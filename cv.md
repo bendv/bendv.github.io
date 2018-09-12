@@ -14,7 +14,7 @@ community-based data” ([available online](https://doi.org/10.13140/RG.2.1.2112
 
 ### M.Sc. (International Land and Water Management), Wageningen University, The Netherlands (2008 – 2010)
 * Major thesis title: “Monitoring the effects of hydrological restoration efforts in degraded
-tropical peatlands, Central Kalimantan, Indonesia”
+tropical peatlands, Central Kalimantan, Indonesia” ([available online](https://doi.org/10.13140/RG.2.2.19155.07206))
 * Advisors: Dr. Henk W&ouml;sten, Prof. Dr. Leo Stroosnijder
 
 ### Honours B.Sc. (Biochemistry), University of Toronto, Canada (2001 – 2005)
@@ -25,19 +25,24 @@ tropical peatlands, Central Kalimantan, Indonesia”
 Available [here](../publications)
 
 ---
+## Conference Presentations
+
+Available [here](../talks)
+
+---
 ## Teaching Experience
 
-### Geoscripting (GRS-33806)
-*Masters in Geo-Information, Wageningen University*. This course covers concepts and tools in scripting to deal with vector and raster data, spatial data, such as satellite imagery used in remote sensing studies. The focus of the course is on the use of R, python and open source libraries in spatial data analysis. As *teaching assistant*, I authored several modules related to raster data processing, classification and time series analysis, gave lectures and supervised practical sessions and students' independent projects.  
+### Geoscripting
+*GRS-33806, Masters in Geo-Information, Wageningen University*. This course covers concepts and tools in scripting to deal with vector and raster data, spatial data, such as satellite imagery used in remote sensing studies. The focus of the course is on the use of R, python and open source libraries in spatial data analysis. As *teaching assistant*, I authored several modules related to raster data processing, classification and time series analysis, gave lectures and supervised practical sessions and students' independent projects.  
 * [course website](https://ssc.wur.nl/Studiegids/Vak/GRS-33806)  
 * [course materials](http://geoscripting-wur.github.io/).
 
-### Advanced Earth Observation (GRS-32306)
-*Masters in Geo-Information, Wageningen University*. This course builds upon fundamental concepts covers concepts such as: physical principles in optical remote sensing, radiative transfer modelling, image processing, LiDAR, hyperspectral remote sensing, time series anlaysis, land cover and land cover change mapping. As *teaching assistant*, I was responsible for overseeing practical sessions, where students were given assignments applying theory learned in lectures.  
+### Advanced Earth Observation
+*GRS-32306, Masters in Geo-Information, Wageningen University*. This course builds upon fundamental concepts covers concepts such as: physical principles in optical remote sensing, radiative transfer modelling, image processing, LiDAR, hyperspectral remote sensing, time series anlaysis, land cover and land cover change mapping. As *teaching assistant*, I was responsible for overseeing practical sessions, where students were given assignments applying theory learned in lectures.  
 * [course website](https://ssc.wur.nl/Studiegids/Vak/GRS-32306)  
 
-### Remote Sensing and GIS Integration (GRS-60312)
-*Masters in Geo-Information, Wageningen University*. This course is comprised of a group project using GIS and remote sensing data and methods to solve real-world problems. As *guest lecturer*, I introduced students to novel approaches in integrating remote sensing time series data with participatory monitoring or "citizen science" data to improve upon satellite-based methods, using my work in southwestern Ethiopia as a case study.  
+### Remote Sensing and GIS Integration
+*GRS-60312, Masters in Geo-Information, Wageningen University*. This course is comprised of a group project using GIS and remote sensing data and methods to solve real-world problems. As *guest lecturer*, I introduced students to novel approaches in integrating remote sensing time series data with participatory monitoring or "citizen science" data to improve upon satellite-based methods, using my work in southwestern Ethiopia as a case study.  
 * [course website](https://ssc.wur.nl/Studiegids/Vak/GRS-60312)
 
 ### Other training activities
@@ -55,6 +60,7 @@ Department of Geographical Sciences, University of Maryland
 
 ### Post-Doctoral Research Associate (02/2016 - 06/2018)
 Department of Geographical Sciences, University of Maryland
+* Expected promotion to Assistant Research Professor as of July 1, 2018
 * Leading implementation of a NASA Land Cover and Land Use Change (LCLUC) project related to the quantification of surface water inundation dynamics using Landsat, Sentinel-1 and Sentinel-2 data
 * Designing optical and SAR-based algorithms for the quantification of sub-pixel water fraction at high spatial and temporal resolution
 
@@ -79,7 +85,7 @@ Christian Reformed World Relief Committee (CRWRC), Eastern and Southern Africa
 * Designed and conducted trainings for Monitoring and Evaluation of project activities throughout the region
 * Oversaw the implementation of disaster response projects throughout East and Southern Africa, including project cycle management
 
-### Private Tutor September (09/2002 - 03/2007)
+### Private Tutor (09/2002 - 03/2007)
 Tutoring Alliance Incorporated, Toronto, Canada
 * Taught high school and grammar school students in Mathematics, Science, and the development of general study habits
 
