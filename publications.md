@@ -19,6 +19,8 @@ permalink: /publications/
 <br>
 ### Other peer-reviewed publications
 
+Huang, W., **DeVries, B.**, Huang, C-Q., Lang, M.W., Jones, J.W., Creed, I.F. and Carroll, M.L. 2018. Automated extraction of surface water extent from Sentinel-1 data. Remote Sensing, 10(5):797.&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.3390/rs10050797" target="_blank">Manuscript</a>.
+
 Reiche, J. and **DeVries, B.**. 2017. Time-series anlaysis for forest cover change. In *A Sourcebook of Methods and Procedures for Monitoring Essential Biodiversity Variables in Tropical Forests with Remote Sensing* Eds: GOFC-GOLD & GEO BON. Report version UNCBD COP-13, GOFC-GOLD Land Cover Project Office, Wageningen University, The Netherlands. ISSN: 2542-6729.&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.gofcgold.wur.nl/sites/gofcgold-geobon_biodiversitysourcebook.php" target="_blank">Sourcebook</a>
 
 Pratihast, A.K., **DeVries, B.**, Avitabile, V., de Bruin, S., Herold, M. and Bergsma, A. 2016. Design and implementation of an interactive web-based near real-time forest monitoring system. PLoS ONE, 11(3):e0150935.&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://dx.doi.org/10.1371/journal.pone.0150935" target="_blank">Manuscript</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.cbm.wur.nl" target="_blank">webGIS</a>

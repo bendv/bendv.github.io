@@ -49,14 +49,14 @@ Available [here](../publications)
 ---
 
 ## Professional Experience
-### Post-Doctoral Research Associate (02/2016 - Present)
+
+### Assistant Research Professor (07/2018 - Present)
+Department of Geographical Sciences, University of Maryland
+
+### Post-Doctoral Research Associate (02/2016 - 06/2018)
 Department of Geographical Sciences, University of Maryland
 * Leading implementation of a NASA Land Cover and Land Use Change (LCLUC) project related to the quantification of surface water inundation dynamics using Landsat, Sentinel-1 and Sentinel-2 data
 * Designing optical and SAR-based algorithms for the quantification of sub-pixel water fraction at high spatial and temporal resolution
-* Principal Investigator on pending proposal to NASA related to detection and monitoring of harmful algal blooms (HABs) in inland waters
-* Co-Investigator on three pending proposals to NASA, related to improved wetland classification methods and quantification of wetland hydrologic dynamics
-* Collaborator on two proposals to NSERC and the Government of Alberta, related to agricultural land use, hydrologic resilience and water quality
-
 
 ### Teaching Assistant (11/2013 - 06/2015)
 Wageningen University, The Netherlands
@@ -89,8 +89,7 @@ Tutoring Alliance Incorporated, Toronto, Canada
 ### Programming Languages
 * **python**: expert user and developer in geospatial data handling using gdal, rasterio and other tools, scientific computing using numpy and scipy packages, high-performance computing with cython and implementation of various machine learning algorithms using the scikit-learn package
 * **R**: expert user and developer in statistical computing, handling of geospatial data and implementation of time series analyses.
-* **javascript**: proficient in web development and geospatial data processing on the Google Earth Engine
-* web development: proficient in html5/css3 and ruby
+* **javascript**: expert in geospatial data processing on the Google Earth Engine
 * other languages: LaTeX, C++, VBA, IDL
 * Developer and co-developer of various R and python packages to perform geospatial processing routines and implement automated time series algorithms ([more info](../resources/))
 
@@ -101,6 +100,7 @@ Tutoring Alliance Incorporated, Toronto, Canada
 
 ## Other Professional Experience
 * *ad hoc* reviewer for: Nature, Remote Sensing of Environment, Remote Sensing, Remote Sensing of Ecology and Conservation, Science of the Total Environment, Ecology and Society, Ecological Informatics
+* Session Co-convener, “Multi-source remote sensing of rivers, lakes, reservoirs and wetlands”, American Geophysical Union, December 2018
 * Invited speaker at SilvaCarbon training workshop on forest change methods – November 2015, Ho Chi Minh City, Vietnam
 * Coordinated and co-led workshop for the preparation of a REDD+ MRV Road Map in collaboration with the Norwegian Ministry of Climate and Environment, the Ethiopian Ministry of Agriculture and the Ethiopian Environmental Protection Agency, Addis Ababa, Ethiopia – November 2012
 * Developed and conducted various training workshops with the Ethiopian Ministry of Agriculture, Bonga, Ethiopia – 2011-2013
