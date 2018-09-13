@@ -13,7 +13,7 @@ permalink: /cv/
 
 ### M.Sc. (International Land and Water Management), Wageningen University, The Netherlands (2008 – 2010)
 * Major thesis title: “Monitoring the effects of hydrological restoration efforts in degraded tropical peatlands, Central Kalimantan, Indonesia” ([available online](https://doi.org/10.13140/RG.2.2.19155.07206))
-* Minor thesis title: “Developing a Tool for Carbon Accounting through Hydrological Modeling in the Sebangau Peatlands” ([available online](https://doi.org/10.13140/RG.2.2.27905.56165))  
+* Minor thesis title: “Developing a tool for carbon accounting through hydrological modeling in the Sebangau peatlands” ([available online](https://doi.org/10.13140/RG.2.2.27905.56165))  
 * Advisors: Dr. Henk W&ouml;sten, Prof. Dr. Leo Stroosnijder
 
 ### Honours B.Sc. (Biochemistry), University of Toronto, Canada (2001 – 2005)
