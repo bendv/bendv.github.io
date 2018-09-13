@@ -8,11 +8,13 @@ permalink: /talks/
 
 DeVries, B. The transformative role of open Earth observation data and cloud computing technologies in the hydrologic sciences. *Invited plenary talk*, AWRA Spring Specialty Conference: GIS and Water Resources X, 22-25 April 2018, Orlando, FL, USA.
 
+DeVries B. Time series algorithms for land cover change monitoring. *Invited guest lecturer*, Workshop: “Expanding Access to Data-intensive Remote Sensing Algorithms through Collaboration with the Socio-Environmental Science Research Community”, National Socio-Environmental Synthesis Center (SESYNC), 29 March, 2018, Annapolis, MD, USA.
+
 DeVries, B. Leveraging multi-source satellite data to monitor surface water dynamics at high spatial and temporal resolution. *Invited talk*, 2017 Silk Road Innovation Forum on Surveying, Remote Sensing and Geographical Information Sciences (IFSRG), 18-21 December 2017, Xi'an, China. [Conference website](http://www.ifsrg.com.cn/)
 
-DeVries, B. Mapping Wetland Inundation Dynamics Using Multi-source Satellite Data. *Invited talk*, Molecules to Macrosystems: EPA Research Webinar Series on Aquatic Ecosystem Connectivity and Function, 28 November 2017, Washington, D.C., USA.
+DeVries, B. Mapping Wetland Inundation Dynamics Using Multi-source Satellite Data. *Invited seminar*, Molecules to Macrosystems: EPA Research Webinar Series on Aquatic Ecosystem Connectivity and Function, 28 November 2017, Washington, D.C., USA.
 
-DeVries, B. Mapping Wetland Inundation Dynamics Using Multi-Source Satellite Data. *Invited talk*, Wetland Mapping Consortium, Association of State Wetland Managers. 19 July, 2017, webinar. [Slides](https://www.aswm.org/pdf_lib/mapping_webinar/mapping_wetland_inundation_dynamics_using_multi_source_satellite_data_devries_071917.pdf)
+DeVries, B. Mapping Wetland Inundation Dynamics Using Multi-Source Satellite Data. *Invited webinar*, Wetland Mapping Consortium, Association of State Wetland Managers. 19 July, 2017, webinar. [Slides](https://www.aswm.org/pdf_lib/mapping_webinar/mapping_wetland_inundation_dynamics_using_multi_source_satellite_data_devries_071917.pdf)
 
 DeVries, B., Verbesselt, J., Reiche, J., Pratihast, A.K. and Herold, M. Tracking and characterizing human impacts in tropical forests: Can Landsat go it alone? *Invited talk*, JpGU-AGU Joint Meeting, 20-25 May 2017, Chiba, Japan. [Abstract](https://confit.atlas.jp/guide/event/jpguagu2017/subject/HGG01-04/tables?cryptoId=)
 

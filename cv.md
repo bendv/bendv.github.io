@@ -32,24 +32,41 @@ Available [here](../talks)
 ---
 ## Teaching Experience
 
-### Geoscripting
-*GRS-33806, Masters in Geo-Information, Wageningen University*. This course covers concepts and tools in scripting to deal with vector and raster data, spatial data, such as satellite imagery used in remote sensing studies. The focus of the course is on the use of R, python and open source libraries in spatial data analysis. As *teaching assistant*, I authored several modules related to raster data processing, classification and time series analysis, gave lectures and supervised practical sessions and students' independent projects.  
-* [course website](https://ssc.wur.nl/Studiegids/Vak/GRS-33806)  
-* [course materials](http://geoscripting-wur.github.io/).
+**Instructor, “Remote Sensing: Digital Processing and Analysis” (2018)**  
+GEOG472, BSc in Geography, University of Maryland ([course website](https://geog.umd.edu/courseinfo/GEOG472))  
+Topics: remote sensing, cloud computing  
 
-### Advanced Earth Observation
-*GRS-32306, Masters in Geo-Information, Wageningen University*. This course builds upon fundamental concepts covers concepts such as: physical principles in optical remote sensing, radiative transfer modelling, image processing, LiDAR, hyperspectral remote sensing, time series anlaysis, land cover and land cover change mapping. As *teaching assistant*, I was responsible for overseeing practical sessions, where students were given assignments applying theory learned in lectures.  
-* [course website](https://ssc.wur.nl/Studiegids/Vak/GRS-32306)  
+**Instructor, “Remote Sensing Instruments and Observations” (2017)**  
+GEOG671, MSc/PhD in Geography, University of Maryland  ([course website](https://geog.umd.edu/courseinfo/GEOG671))  
+Topics: optical and SAR remote sensing  
 
-### Remote Sensing and GIS Integration
-*GRS-60312, Masters in Geo-Information, Wageningen University*. This course is comprised of a group project using GIS and remote sensing data and methods to solve real-world problems. As *guest lecturer*, I introduced students to novel approaches in integrating remote sensing time series data with participatory monitoring or "citizen science" data to improve upon satellite-based methods, using my work in southwestern Ethiopia as a case study.  
-* [course website](https://ssc.wur.nl/Studiegids/Vak/GRS-60312)
+**Instructor and Co-Developer, “Geoscripting” (2014)**  
+GRS-33806, MSc in Geo-Information, Wageningen University ([course materials](http://geoscripting-wur.github.io/))  
+Topics: geospatial data processing, R, python  
 
-### Other training activities
-* Designed and held training workshops with staff of the Ethiopian Ministry of Agriculture in southwestern Ethiopia, covering forests and climate change, ecosystem services, forest inventory methods and forest change monitoring (2011-2014).
-* Designed and held a 1-week training workshop with WWF field staff in Palangkaraya, Indonesia, cover hydrological modeling and carbon accounting in tropical peatlands. (August 2010).
-* Private tutor for secondary school students in Toronto, Ontario, focussing on pre-university calculus, algebra, chemistry and biology (2003-2007).
-* Other spatial data tools and tutorials [available online](../resources).
+**Teaching Assistant, “Advanced Earth Observation” (2015)**  
+GRS-32306, MSc in Geo-Information, Wageningen University ([course website](https://ssc.wur.nl/Studiegids/Vak/GRS-32306))  
+Topics: optical, SAR and LiDAR remote sensing  
+
+**Instructor, “Remote Sensing and GIS Integration” (2012-2014)**  
+GRS-60312, MSc in Geo-Information, Wageningen University ([course website](https://ssc.wur.nl/Studiegids/Vak/GRS-60312))  
+Topics: remote sensing, time series, citizen science  
+
+**Coordinator and Instructor, Forest change workshops (2011-2013)**  
+Ethiopian Ministry of Agriculture, Bonga, Ethiopia  
+Topics: remote sensing, GIS, GPS, forest inventory  
+
+**Coordinator and Instructor, Hydrologic modeling workshop (2010)**  
+World Wildlife Fund, Palangkaraya, Indonesia  
+Topics: hydrologic modeling, GIS  
+
+**MSc Thesis Supervisor (2012-2015)**  
+Laboratory for Geo-Information Science and Remote Sensing  
+Topics: remote sensing, GIS, time series, forest change analysis  
+
+**Private Tutor (2003-2007)**  
+Tutoring Alliance, Inc., Toronto, Canada  
+Topics: calculus, algebra, physics, chemistry, biology  
 
 ---
 
@@ -67,17 +84,13 @@ Department of Geographical Sciences, University of Maryland
 ### Teaching Assistant (11/2013 - 06/2015)
 Wageningen University, The Netherlands
 * Teaching assistant for Advanced Earth Observation M.Sc. course (GRS-30206)
-* Assisted in the development of a curriculum and course materials and gave lectures
-for a new M.Sc. level course in Geo-Scripting (GRS-51806)
-* Guest lecturer for the Integrated GIS and Remote Sensing M.Sc. course (GRS-
-60312)
+* Assisted in the development of a curriculum and course materials and gave lectures for a new M.Sc. level course in Geo-Scripting (GRS-51806)
+* Guest lecturer for the Integrated GIS and Remote Sensing M.Sc. course (GRS-60312)
 
 ### Research Assistant (02/2011 - 11/2013)
 Wageningen University, The Netherlands and Ethiopia
 * Led the implementation of the “Forest and Climate Monitoring” project, funded by the Nature and Biodiversity Union (NABU) through the German International Climate Initiative (IKI)
-* Prepared interim and final reports of research findings to project commissioners
-* Facilitated national workshop with the Ethiopian Ministry of Agriculture,
-Environmental Protection Agency and the Embassy of Norway and drafted a Road Map for the implementation of a REDD+ Measuring, Reporting and Verification (MRV) system
+* Facilitated national workshop with the Ethiopian Ministry of Agriculture, Environmental Protection Agency and the Embassy of Norway and drafted a Road Map for the implementation of a REDD+ Measuring, Reporting and Verification (MRV) system
 
 ### Regional Disaster Response Coordinator (03/2007 - 09/2008)
 Christian Reformed World Relief Committee (CRWRC), Eastern and Southern Africa
@@ -92,14 +105,11 @@ Tutoring Alliance Incorporated, Toronto, Canada
 ---
 
 ## Technical Skills
-### Programming Languages
 * **python**: expert user and developer in geospatial data handling using gdal, rasterio and other tools, scientific computing using numpy and scipy packages, high-performance computing with cython and implementation of various machine learning algorithms using the scikit-learn package
 * **R**: expert user and developer in statistical computing, handling of geospatial data and implementation of time series analyses.
 * **javascript**: expert in geospatial data processing on the Google Earth Engine
 * other languages: LaTeX, C++, VBA, IDL
 * Developer and co-developer of various R and python packages to perform geospatial processing routines and implement automated time series algorithms ([more info](../resources/))
-
-### Other Software and Tools
 * Experienced user of QGIS, GRASS GIS, osgeo/gdal, ArcGIS, ENVI and eCognition software packages
 
 ---
