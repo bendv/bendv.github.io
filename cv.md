@@ -117,15 +117,16 @@ Tutoring Alliance Incorporated, Toronto, Canada
 
 ---
 
-## Other Professional Experience
+## Service
 * *ad hoc* reviewer for: Nature, Remote Sensing of Environment, Remote Sensing, Remote Sensing of Ecology and Conservation, Science of the Total Environment, Ecology and Society, Ecological Informatics
 * Session Co-convener, “Multi-source remote sensing of rivers, lakes, reservoirs and wetlands”, American Geophysical Union, December 2018
+* Member of the Diversity Task Force at the Department of Geographical Sciences, University of Maryland (2017 - present)
 * Invited speaker at SilvaCarbon training workshop on forest change methods – November 2015, Ho Chi Minh City, Vietnam
 * Coordinated and co-led workshop for the preparation of a REDD+ MRV Road Map in collaboration with the Norwegian Ministry of Climate and Environment, the Ethiopian Ministry of Agriculture and the Ethiopian Environmental Protection Agency, Addis Ababa, Ethiopia – November 2012
 
 ---
 
-## Languages
+## Spoken Languages
 * English: native language
 * Dutch: full professional proficiency
 * French: limited working proficiency
