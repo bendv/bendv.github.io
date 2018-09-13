@@ -24,6 +24,8 @@ Pratihast, A.K., **DeVries, B.**, Avitabile, V., de Bruin, S., Kooistra, L. and 
 
 Dresen, E., **DeVries, B.**, Herold, M., Verchot, L. and M&#252;ller, R. 2014. Fuelwood savings and carbon emission reductions by the use of improved cooking stoves in an Afromontane forest, Ethiopia. Land, 3(3):1137-1157.&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://doi.org/10.3390/land3031137" target="_blank">Manuscript</a>
 
+**DeVries, B.**, Pratihast, A.K., Verbesselt, J., Kooistra, L., de Bruin, S. and Herold, M. 2013. Near real-time tropical forest disturbance monitoring using Landsat time series and local expert monitoring data. MultiTemp 2013: 7th International Workshop on the Analysis of Multi-temporal Remote Sensing Images.&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://doi.org/10.1109/Multi-Temp.2013.6866022" target="_blank">Manuscript</a>
+
 **DeVries, B.** and Herold, M. 2013. The Science of Measuring, Reporting and Verification (MRV). In R. Lyster, C. MacKenzie, & C. McDermott (Eds.), Law, Tropical Forests and Carbon: The Case of REDD+, pp. 151-183. Cambridge: Cambridge Univ Press.&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.cambridge.org/us/academic/subjects/law/environmental-law/law-tropical-forests-and-carbon-case-redd" target="_blank">Book</a>
 
 Buerger, C., **DeVries, B.** and Stambolic, V. 2006. Localization of Rheb to the endomembrane is critical for its signaling function. Biochemical and Biophysical Research Communications, 344(3):869-880.&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://doi.org/10.1016/j.bbrc.2006.03.220" target="_blank">Manuscript</a>
