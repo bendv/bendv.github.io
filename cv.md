@@ -8,13 +8,12 @@ permalink: /cv/
 
 ## Education
 ### Ph.D. (Remote Sensing), Wageningen University, The Netherlands (2011 – 2015)
-* Dissertation Title: “Monitoring tropical forest dynamics using Landsat time series and
-community-based data” ([available online](https://doi.org/10.13140/RG.2.1.2112.8409))
+* Dissertation Title: “Monitoring tropical forest dynamics using Landsat time series and community-based data” ([available online](https://doi.org/10.13140/RG.2.1.2112.8409))
 * Advisors: Prof. Dr. Martin Herold, Dr. Lammert Kooistra, Dr. Jan Verbesselt
 
 ### M.Sc. (International Land and Water Management), Wageningen University, The Netherlands (2008 – 2010)
-* Major thesis title: “Monitoring the effects of hydrological restoration efforts in degraded
-tropical peatlands, Central Kalimantan, Indonesia” ([available online](https://doi.org/10.13140/RG.2.2.19155.07206))
+* Major thesis title: “Monitoring the effects of hydrological restoration efforts in degraded tropical peatlands, Central Kalimantan, Indonesia” ([available online](https://doi.org/10.13140/RG.2.2.19155.07206))
+* Minor thesis title: “Developing a Tool for Carbon Accounting through Hydrological Modeling in the Sebangau Peatlands” ([available online](https://doi.org/10.13140/RG.2.2.27905.56165))  
 * Advisors: Dr. Henk W&ouml;sten, Prof. Dr. Leo Stroosnijder
 
 ### Honours B.Sc. (Biochemistry), University of Toronto, Canada (2001 – 2005)
@@ -57,7 +56,7 @@ Ethiopian Ministry of Agriculture, Bonga, Ethiopia
 Topics: remote sensing, GIS, GPS, forest inventory  
 
 **Coordinator and Instructor, Hydrologic modeling workshop (2010)**  
-World Wildlife Fund, Palangkaraya, Indonesia  
+World Wildlife Fund, Palangkaraya, Indonesia ([report](https://doi.org/10.13140/RG.2.2.27905.56165))  
 Topics: hydrologic modeling, GIS  
 
 **MSc Thesis Supervisor (2012-2015)**  
