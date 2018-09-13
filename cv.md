@@ -64,6 +64,10 @@ Topics: hydrologic modeling, GIS
 Laboratory for Geo-Information Science and Remote Sensing  
 Topics: remote sensing, GIS, time series, forest change analysis  
 
+**Coordinator and Instructor, Monitoring and evaluation workshops (2007-2008)**  
+Christian Reformed World Relief Committee and local partners, East and Southern Africa  
+Topics: monitoring and evaluation for disaster response projects  
+
 **Private Tutor (2003-2007)**  
 Tutoring Alliance, Inc., Toronto, Canada  
 Topics: calculus, algebra, physics, chemistry, biology  
