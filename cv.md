@@ -40,13 +40,13 @@ Topics: remote sensing, cloud computing
 GEOG671, MSc/PhD in Geography, University of Maryland  ([course website](https://geog.umd.edu/courseinfo/GEOG671))  
 Topics: optical and SAR remote sensing  
 
-**Instructor and Co-Developer, “Geoscripting” (2014)**  
-GRS-33806, MSc in Geo-Information, Wageningen University ([course materials](http://geoscripting-wur.github.io/))  
-Topics: geospatial data processing, R, python  
-
 **Teaching Assistant, “Advanced Earth Observation” (2015)**  
 GRS-32306, MSc in Geo-Information, Wageningen University ([course website](https://ssc.wur.nl/Studiegids/Vak/GRS-32306))  
 Topics: optical, SAR and LiDAR remote sensing  
+
+**Instructor and Co-Developer, “Geoscripting” (2014)**  
+GRS-33806, MSc in Geo-Information, Wageningen University ([course materials](http://geoscripting-wur.github.io/))  
+Topics: geospatial data processing, R, python 
 
 **Instructor, “Remote Sensing and GIS Integration” (2012-2014)**  
 GRS-60312, MSc in Geo-Information, Wageningen University ([course website](https://ssc.wur.nl/Studiegids/Vak/GRS-60312))  
@@ -105,10 +105,9 @@ Tutoring Alliance Incorporated, Toronto, Canada
 ---
 
 ## Technical Skills
-* **python**: expert user and developer in geospatial data handling using gdal, rasterio and other tools, scientific computing using numpy and scipy packages, high-performance computing with cython and implementation of various machine learning algorithms using the scikit-learn package
-* **R**: expert user and developer in statistical computing, handling of geospatial data and implementation of time series analyses.
-* **javascript**: expert in geospatial data processing on the Google Earth Engine
-* other languages: LaTeX, C++, VBA, IDL
+* Expert user and developer in **python** and **R**: geospatial data handling, scientific computing, high-performance computing (cython), time series, statistical analysis and machine learning
+* Expert user, developer and educator of the Google Earth Engine **javascript** and **python** application programming interfaces
+* Extensive experience with other programming languages, such as LaTeX, C++, VBA, IDL
 * Developer and co-developer of various R and python packages to perform geospatial processing routines and implement automated time series algorithms ([more info](../resources/))
 * Experienced user of QGIS, GRASS GIS, osgeo/gdal, ArcGIS, ENVI and eCognition software packages
 
@@ -119,9 +118,6 @@ Tutoring Alliance Incorporated, Toronto, Canada
 * Session Co-convener, “Multi-source remote sensing of rivers, lakes, reservoirs and wetlands”, American Geophysical Union, December 2018
 * Invited speaker at SilvaCarbon training workshop on forest change methods – November 2015, Ho Chi Minh City, Vietnam
 * Coordinated and co-led workshop for the preparation of a REDD+ MRV Road Map in collaboration with the Norwegian Ministry of Climate and Environment, the Ethiopian Ministry of Agriculture and the Ethiopian Environmental Protection Agency, Addis Ababa, Ethiopia – November 2012
-* Developed and conducted various training workshops with the Ethiopian Ministry of Agriculture, Bonga, Ethiopia – 2011-2013
-* Supervised three MSc thesis project students, Wageningen University, The Netherlands – 2011-2014
-* Developed and conducted training workshops with WWF Indonesia field staff, Palagkaraya, Indonesia – August 2010
 
 ---
 
