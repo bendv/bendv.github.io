@@ -4,6 +4,8 @@ title: Publications
 permalink: /publications/
 ---
 
+Evenson, G.R., Jones, C.N., McLaughlin, D.L., Golden, H.E., Lane, C.R., **DeVries, B.**, Alexander, L.C., Lang, M.W., McCarty, G.W. and Sharifih, A. 2018. A watershed-scale model for depressional wetland-rich landscapes. Journal of Hydrology X 1(1):100002.&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.1016/j.hydroa.2018.10.002" target="_blank">Manuscript</a>
+
 Huang, W., **DeVries, B.**, Huang, C-Q., Lang, M.W., Jones, J.W., Creed, I.F. and Carroll, M.L. 2018. Automated Extraction of Surface Water Extent from Sentinel-1 Data. Remote Sensing, 10(5):797.&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.mdpi.com/2072-4292/10/5/797" target="_blank">Manuscript</a>
 
 **DeVries, B.**, Huang, C-Q., Lang, M.W., Jones, J.W., Huang, W., Creed, I.F. and Carroll, M.L. 2017. Automated quantification of surface water inundation in wetlands using optical satellite imagery. Remote Sensing, 9(8):807.&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.mdpi.com/2072-4292/9/8/807" target="_blank">Manuscript</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.mdpi.com/2072-4292/9/8" target="_blank">Cover Feature</a>
