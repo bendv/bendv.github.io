@@ -10,7 +10,7 @@ DeVries, B. The transformative role of open Earth observation data and cloud com
 
 DeVries B. Time series algorithms for land cover change monitoring. *Invited guest lecturer*, Workshop: “Expanding Access to Data-intensive Remote Sensing Algorithms through Collaboration with the Socio-Environmental Science Research Community”, National Socio-Environmental Synthesis Center (SESYNC), 29 March, 2018, Annapolis, MD, USA.
 
-DeVries, B. Leveraging multi-source satellite data to monitor surface water dynamics at high spatial and temporal resolution. *Invited talk*, 2017 Silk Road Innovation Forum on Surveying, Remote Sensing and Geographical Information Sciences (IFSRG), 18-21 December 2017, Xi'an, China. [Conference website](http://www.ifsrg.com.cn/)
+DeVries, B. Leveraging multi-source satellite data to monitor surface water dynamics at high spatial and temporal resolution. *Invited talk*, 2017 Silk Road Innovation Forum on Surveying, Remote Sensing and Geographical Information Sciences (IFSRG), 18-21 December 2017, Xi'an, China.
 
 DeVries, B. Mapping Wetland Inundation Dynamics Using Multi-source Satellite Data. *Invited seminar*, Molecules to Macrosystems: EPA Research Webinar Series on Aquatic Ecosystem Connectivity and Function, 28 November 2017, Washington, D.C., USA.
 
@@ -21,6 +21,10 @@ DeVries, B., Verbesselt, J., Reiche, J., Pratihast, A.K. and Herold, M. Tracking
 DeVries, B. Tropical forest monitoring using Landsat time series and community-based data. *Invited talk*, NASA Goddard Space Flight Center, informal lunch talk. 12 May 2016, Greenbelt, MD, USA. [Slides](http://bendevries.ca/nasa_goddard_sfc_talk/)
 
 ## Conference Presentations
+
+DeVries, B., Huang, C-Q., Lang, M.W., Jones, J.W., Creed, I.F. and Carroll, M.L.Developing a Dataset Describing Surface Water Regimes Across North American Wetlandscapes. *Poster Presentation*, AGU Fall Meeting, 10-14 December, 2018, Washington, DC, USA.
+
+DeVries, B., Huang, C-Q., Lang, M.W., Jones, J.W., Creed, I.F. and Carroll, M.L. Quantifying Wetland Inundation Dynamics in Coastal Watersheds Using Virtual Constellations of Optical and Radar Earth Observation Satellites. Interagency Conference on Research in The Watershed, 23-25 July, 2018, Shepherdstown, WV, USA.
 
 DeVries, B., Huang, C-Q., Huang, W., Lang, M.W., Jones, J.W., Creed, I.F. and Carroll, M.L. Identifying synergies and trade-offs between optical and radar satellite data in monitoring wetland inundation dynamics. AWRA Spring Specialty Conference: GIS and Water Resources X, 22-25 April 2018, Orlando, FL, USA.
 
