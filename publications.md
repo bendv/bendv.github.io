@@ -4,6 +4,8 @@ title: Publications
 permalink: /publications/
 ---
 
+Zaffaroni, M., Zamberletti, P., Creed, I.F., Accatino, F., De Michele, C. and **DeVries, B.**. 2019. Safeguarding wetlands and their connections within wetlandscapes to improve conservation outcomes for threatened amphibian species. Journal of the American Water Resources Association, *in press*.
+
 Evenson, G.R., Jones, C.N., McLaughlin, D.L., Golden, H.E., Lane, C.R., **DeVries, B.**, Alexander, L.C., Lang, M.W., McCarty, G.W. and Sharifih, A. 2018. A watershed-scale model for depressional wetland-rich landscapes. Journal of Hydrology X 1(1):100002.&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.1016/j.hydroa.2018.10.002" target="_blank">Manuscript</a>
 
 Huang, W., **DeVries, B.**, Huang, C-Q., Lang, M.W., Jones, J.W., Creed, I.F. and Carroll, M.L. 2018. Automated Extraction of Surface Water Extent from Sentinel-1 Data. Remote Sensing, 10(5):797.&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.mdpi.com/2072-4292/10/5/797" target="_blank">Manuscript</a>
