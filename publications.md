@@ -4,6 +4,8 @@ title: Publications
 permalink: /publications/
 ---
 
+Wu, Q., Lane, C.R., Li, X., Zhao, K., Zhou, Y., Clinton, N., **DeVries, B.**, Golden, H.E. and Lang, M.W. 2019. Integrating LiDAR data and multi-temporal aerial imagery to map wetland inundation dynamics using Google Earth Engine. Remote Sensing of Environment, 228:1-13.&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.1016/j.rse.2019.04.015">Manuscript</a>
+
 Zaffaroni, M., Zamberletti, P., Creed, I.F., Accatino, F., De Michele, C. and **DeVries, B.**. 2019. Safeguarding wetlands and their connections within wetlandscapes to improve conservation outcomes for threatened amphibian species. Journal of the American Water Resources Association, *in press*.
 
 Evenson, G.R., Jones, C.N., McLaughlin, D.L., Golden, H.E., Lane, C.R., **DeVries, B.**, Alexander, L.C., Lang, M.W., McCarty, G.W. and Sharifih, A. 2018. A watershed-scale model for depressional wetland-rich landscapes. Journal of Hydrology X 1(1):100002.&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.1016/j.hydroa.2018.10.002" target="_blank">Manuscript</a>
