@@ -4,6 +4,8 @@ title: Publications
 permalink: /publications/
 ---
 
+Steidinger, B.S., Crowther, T.W., Liang, J., van Nuland, M.E., Werner, G.D.A., Reich, P.B., Nabuurs, G.J., de-Miguel, S., Zhou, M., Picard, N., Herault, B., Zhao, X., Zhang, C., Routh, D., Peay, K.G. and the GFBI Consortium (including DeVries, B.). 2019. Climatic controls of decomposition drive the global biogeography of forest-tree symbioses. Nature, 569:404-408.&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.nature.com/articles/s41586-019-1128-0">Manuscript</a>
+
 Wu, Q., Lane, C.R., Li, X., Zhao, K., Zhou, Y., Clinton, N., **DeVries, B.**, Golden, H.E. and Lang, M.W. 2019. Integrating LiDAR data and multi-temporal aerial imagery to map wetland inundation dynamics using Google Earth Engine. Remote Sensing of Environment, 228:1-13.&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.1016/j.rse.2019.04.015">Manuscript</a>
 
 Zaffaroni, M., Zamberletti, P., Creed, I.F., Accatino, F., De Michele, C. and **DeVries, B.**. 2019. Safeguarding wetlands and their connections within wetlandscapes to improve conservation outcomes for threatened amphibian species. Journal of the American Water Resources Association, *in press*.

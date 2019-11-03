@@ -1,10 +1,14 @@
 ---
 layout: page
-title: Software & Tutorials
+title: Software, Documentation & Tutorials
 permalink: /resources/
 ---
 
-Here you can find some of the packages and training materials I have been working on or have contributed to.  
+Here you can find some of the software packages, code, documentation and training materials I have been working on or have contributed to.  
+
+# waffls
+Water Fraction from Landsat and Sentinel-2 data
+[Source Code](https://github.com/bendv/waffls)
 
 # rgrowth
 Detection of post-disturbance forest regrowth using dense Landsat time series.  
