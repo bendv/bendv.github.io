@@ -1,6 +1,6 @@
 # Site settings
 title: Ben DeVries
-email: bdv@umd.edu
+email: bdv@uoguelph.ca
 description: > # this means to ignore newlines until "baseurl:"
   Assistant Research Professor at the Department of Geographical Sciences, University of Maryland
 baseurl: "" # the subpath of your site, e.g. /blog/
