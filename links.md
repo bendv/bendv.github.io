@@ -4,19 +4,10 @@ title: Links
 permalink: /links/
 ---
 
-## My work
+## My colleagues
 
+* [Department of Geography, Environment and Geomatics](https://www.uoguelph.ca/geography/)
 * [Department of Geographical Sciences, University of Maryland](https://geog.umd.edu)  
-* [NASA Land Cover and Land Use Change Program (LCLUC)](http://lcluc.umd.edu/)  
-
-## Friends, Colleagues and Collaborators
-
-* [Laboratory of Geo-Information Science and Remote Sensing](http://www.grs.wur.nl)  
-* [Changemonitor Team @ Wageningen University](http://changemonitor-wur.github.io/)  
-* [Creed Research Group @ University of Western Ontario](http://www.uwo.ca/biology/faculty/creed/)  
-* [Lo&iuml;c Dutrieux](http://www.loicdutrieux.net/)  
-* [Niki De Sy](http://nikidesy.org/)
-* [Laura Duncanson](https://lauraduncanson.com/)   
 
 ## Where else to find me
 

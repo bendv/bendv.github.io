@@ -31,6 +31,10 @@ Available [here](../talks)
 ---
 ## Teaching Experience
 
+**Instructor, "Analysis in Geography" (2019)**  
+GEOG\*2460, University of Guelph  
+Topics: stastistical analysis for the natural and social sciences  
+
 **Instructor, “Remote Sensing: Digital Processing and Analysis” (2018)**  
 GEOG472, BSc in Geography, University of Maryland ([course website](https://geog.umd.edu/courseinfo/GEOG472))  
 Topics: remote sensing, cloud computing  
@@ -59,51 +63,42 @@ Topics: remote sensing, GIS, GPS, forest inventory
 World Wildlife Fund, Palangkaraya, Indonesia ([report](https://doi.org/10.13140/RG.2.2.27905.56165))  
 Topics: hydrologic modeling, GIS  
 
-**MSc Thesis Supervisor (2012-2015)**  
+**MSc Thesis Co-Supervisor (2012-2015)**  
 Laboratory for Geo-Information Science and Remote Sensing  
-Topics: remote sensing, GIS, time series, forest change analysis  
-
-**Coordinator and Instructor, Monitoring and evaluation workshops (2007-2008)**  
-Christian Reformed World Relief Committee and local partners, East and Southern Africa  
-Topics: monitoring and evaluation for disaster response projects  
 
 **Private Tutor (2003-2007)**  
 Tutoring Alliance, Inc., Toronto, Canada  
-Topics: calculus, algebra, physics, chemistry, biology  
 
 ---
 
 ## Professional Experience
 
-### Assistant Research Professor (07/2018 - Present)
+### Assistant Professor (07/2019 - present)
+Department of Geography, Environment and Geomatics, University of Guelph
+
+### Adjunct Assistant Professor (07/2019 - present)  
+Department of Geographical Sciences, University of Maryland
+
+### Assistant Research Professor (07/2018 - 07/2019)
 Department of Geographical Sciences, University of Maryland
 
 ### Post-Doctoral Research Associate (02/2016 - 06/2018)
 Department of Geographical Sciences, University of Maryland
-* Expected promotion to Assistant Research Professor as of July 1, 2018
-* Leading implementation of a NASA Land Cover and Land Use Change (LCLUC) project related to the quantification of surface water inundation dynamics using Landsat, Sentinel-1 and Sentinel-2 data
-* Designing optical and SAR-based algorithms for the quantification of sub-pixel water fraction at high spatial and temporal resolution
 
-### Teaching Assistant (11/2013 - 06/2015)
+### Research Consultant (06/2015 - 12/2015)  
+Center for International Forestry Research (CIFOR)  
+
+### Graduate Teaching Assistant (11/2013 - 06/2015)
 Wageningen University, The Netherlands
-* Teaching assistant for Advanced Earth Observation M.Sc. course (GRS-30206)
-* Assisted in the development of a curriculum and course materials and gave lectures for a new M.Sc. level course in Geo-Scripting (GRS-51806)
-* Guest lecturer for the Integrated GIS and Remote Sensing M.Sc. course (GRS-60312)
 
 ### Research Assistant (02/2011 - 11/2013)
 Wageningen University, The Netherlands and Ethiopia
-* Led the implementation of the “Forest and Climate Monitoring” project, funded by the Nature and Biodiversity Union (NABU) through the German International Climate Initiative (IKI)
-* Facilitated national workshop with the Ethiopian Ministry of Agriculture, Environmental Protection Agency and the Embassy of Norway and drafted a Road Map for the implementation of a REDD+ Measuring, Reporting and Verification (MRV) system
 
 ### Regional Disaster Response Coordinator (03/2007 - 09/2008)
 Christian Reformed World Relief Committee (CRWRC), Eastern and Southern Africa
-* Performed needs assessments in post-disaster situations and developed funding proposals for appropriate response interventions
-* Designed and conducted trainings for Monitoring and Evaluation of project activities throughout the region
-* Oversaw the implementation of disaster response projects throughout East and Southern Africa, including project cycle management
 
 ### Private Tutor (09/2002 - 03/2007)
 Tutoring Alliance Incorporated, Toronto, Canada
-* Taught high school and grammar school students in Mathematics, Science, and the development of general study habits
 
 ---
 
