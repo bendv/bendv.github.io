@@ -6,6 +6,10 @@ permalink: /resources/
 
 Here you can find some of the software packages, code, documentation and training materials I have been working on or have contributed to.  
 
+# s1flood
+Flood monitoring with Sentinel-1 time series data on the Google Earth Engine  
+[Source Code](https://github.com/bendv/s1flood)
+
 # waffls
 Water Fraction from Landsat and Sentinel-2 data  
 [Source Code](https://github.com/bendv/waffls)
