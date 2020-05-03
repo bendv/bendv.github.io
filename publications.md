@@ -6,7 +6,7 @@ permalink: /publications/
 
 Vanderhoof, M.K., Christensen, J., Beal, Y.-J.G., **DeVries, B.**, Lang, M.W., Hwang, N., Mazzarella, C. and Jones, J.W. 2020 Isolating anthropogenic wetland loss by concurrently tracking inundation and land cover disturbance across the Mid-Atlantic Region, United States. Remote Sensing, *in press*.
 
-**DeVries, B.**, Huang, C-Q., Armston, J. Huang, W., Jones, J.W. and Lang M.W. 2020. Rapid and robust monitoring of floods using Sentinel-1 and Landsat data on the Google Earth Engine. Remote Sensing of Environment, 24:111664. &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.sciencedirect.com/science/article/abs/pii/S003442572030033X">Manuscript</a>
+**DeVries, B.**, Huang, C-Q., Armston, J. Huang, W., Jones, J.W. and Lang M.W. 2020. Rapid and robust monitoring of floods using Sentinel-1 and Landsat data on the Google Earth Engine. Remote Sensing of Environment, 24:111664. &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.sciencedirect.com/science/article/abs/pii/S003442572030033X">Manuscript</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/bendv/s1flood">Code</a>
 
 Steidinger, B.S., Crowther, T.W., Liang, J., van Nuland, M.E., Werner, G.D.A., Reich, P.B., Nabuurs, G.J., de-Miguel, S., Zhou, M., Picard, N., Herault, B., Zhao, X., Zhang, C., Routh, D., Peay, K.G. and the GFBI Consortium (including DeVries, B.). 2019. Climatic controls of decomposition drive the global biogeography of forest-tree symbioses. Nature, 569:404-408.&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.nature.com/articles/s41586-019-1128-0">Manuscript</a>
 
