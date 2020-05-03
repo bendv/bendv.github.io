@@ -35,10 +35,6 @@ Implementation of the TimeSync framework in R.
 Plotting tools for bfast-type analysis using the ggplot2 in R.  
 [Source Code](https://github.com/bendv/bfastPlot)
 
-# Geoscripting
-Recently introduced course on scripting for geospatial analysis at Wageningen University. All course materials are open source.
-[Course Materials](https://geoscripting-wur.github.io/)  
-
 # Integrated-LTS-CBM
 Tutorial and source code for the fourth chapter of my PhD, published in PLoS ONE. This demonstrates the use of Landsat time series (LTS) together with Community-Based Monitoring (CBM) data in an Afro-montane forest in southwester Ethiopia.  
 [Source Code and Data](https://github.com/bendv/integrated-lts-cbm)

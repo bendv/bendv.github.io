@@ -14,4 +14,4 @@ permalink: /links/
 * [on Twitter](https://twitter.com/onchante)  
 * [on ResearchGate](https://www.researchgate.net/profile/Ben_DeVries)  
 * [on GitHub](https://github.com/bendv)  
-* [on SoundCloud](https://soundcloud.com/bdv)  
+

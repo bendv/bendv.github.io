@@ -31,6 +31,14 @@ Available [here](../talks)
 ---
 ## Teaching Experience
 
+**Instructor, "Applied Geomatics" (2020)**
+GEOG\*4480, University of Guelph  
+Topics: group project, emerging themes in GIS and remote sensing  
+
+**Instructor, "GIS and Spatial Analysis" (2020)**  
+GEOG\*3480, University of Guelph  
+Topics: vector and raster GIS, spatial models, spatial statistics, digital terrain analysis  
+
 **Instructor, "Analysis in Geography" (2019)**  
 GEOG\*2460, University of Guelph  
 Topics: stastistical analysis for the natural and social sciences  
@@ -99,15 +107,6 @@ Christian Reformed World Relief Committee (CRWRC), Eastern and Southern Africa
 
 ### Private Tutor (09/2002 - 03/2007)
 Tutoring Alliance Incorporated, Toronto, Canada
-
----
-
-## Technical Skills
-* Expert user and developer in **python** and **R**: geospatial data handling, scientific computing, high-performance computing (cython), time series, statistical analysis and machine learning
-* Expert user, developer and educator of the Google Earth Engine **javascript** and **python** application programming interfaces
-* Extensive experience with other programming languages, such as LaTeX, C++, VBA, IDL
-* Developer and co-developer of various R and python packages to perform geospatial processing routines and implement automated time series algorithms ([more info](../resources/))
-* Experienced user of QGIS, GRASS GIS, osgeo/gdal, ArcGIS, ENVI and eCognition software packages
 
 ---
 
