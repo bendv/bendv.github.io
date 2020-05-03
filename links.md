@@ -4,10 +4,12 @@ title: Links
 permalink: /links/
 ---
 
-## My colleagues
+## Colleagues and Collaborators
 
-* [Department of Geography, Environment and Geomatics](https://www.uoguelph.ca/geography/)
+* [Department of Geography, Environment and Geomatics](https://www.uoguelph.ca/geography/)  
 * [Department of Geographical Sciences, University of Maryland](https://geog.umd.edu)  
+* [Dr. Genevieve Ali, School of Environmental Sciences, University of Guelph](https://galiresearch.com)  
+* [Dr. Wanhong Yang, Department of Geography, Environment and Geogmatics, University of Guelph](https://geg.uoguelph.ca/WEG)  
 
 ## Where else to find me
 
