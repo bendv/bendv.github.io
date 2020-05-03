@@ -1,9 +1,8 @@
 ---
 layout: page
+title: Fully funded M.Sc. positions at the University of Guelph
 link: /opportunities/omafra2020.html
 ---
-
-# Fully funded M.Sc. positions at the University of Guelph
 
 ## Hydrometeorological Risk Indicators in the Lake Erie Basin
 
