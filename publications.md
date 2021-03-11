@@ -4,6 +4,8 @@ title: Publications
 permalink: /publications/
 ---
 
+Hondula, K.L., **DeVries, B.**, Jones, C.N. and Palmer, M.A. 2021. Effects of Using High Resolution Satellite-Based Inundation Time Series to Estimate Methane Fluxes From Forested Wetlands. Geophysical Research Letters, 48, e2021GL092556. doi:10.1029/2021GL092556.&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.1029/2021GL092556">Manuscript</a>
+
 Vanderhoof, M.K., Christensen, J., Beal, Y.-J.G., **DeVries, B.**, Lang, M.W., Hwang, N., Mazzarella, C. and Jones, J.W. 2020 Isolating anthropogenic wetland loss by concurrently tracking inundation and land cover disturbance across the Mid-Atlantic Region, United States. Remote Sensing, 12(9), 1464.&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.mdpi.com/2072-4292/12/9/1464">Manuscript</a>
 
 **DeVries, B.**, Huang, C-Q., Armston, J. Huang, W., Jones, J.W. and Lang M.W. 2020. Rapid and robust monitoring of floods using Sentinel-1 and Landsat data on the Google Earth Engine. Remote Sensing of Environment, 24:111664. &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.sciencedirect.com/science/article/abs/pii/S003442572030033X">Manuscript</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/bendv/s1flood">Code</a>
