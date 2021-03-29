@@ -4,6 +4,8 @@ title: Publications
 permalink: /publications/
 ---
 
+Lindsay, J.B., van Niewenhuizen, N. and **DeVries, B.**. 2021. Automated Mapping of Transportation Embankments in Fine-Resolution LiDAR DEMs. Remote Sensing, *in press*.
+
 Hondula, K.L., **DeVries, B.**, Jones, C.N. and Palmer, M.A. 2021. Effects of Using High Resolution Satellite-Based Inundation Time Series to Estimate Methane Fluxes From Forested Wetlands. Geophysical Research Letters, 48, e2021GL092556. doi:10.1029/2021GL092556.&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.1029/2021GL092556">Manuscript</a>
 
 Vanderhoof, M.K., Christensen, J., Beal, Y.-J.G., **DeVries, B.**, Lang, M.W., Hwang, N., Mazzarella, C. and Jones, J.W. 2020 Isolating anthropogenic wetland loss by concurrently tracking inundation and land cover disturbance across the Mid-Atlantic Region, United States. Remote Sensing, 12(9), 1464.&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.mdpi.com/2072-4292/12/9/1464">Manuscript</a>
