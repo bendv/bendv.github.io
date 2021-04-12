@@ -4,6 +4,8 @@ title: Publications
 permalink: /publications/
 ---
 
+Zou, Z., **DeVries, B.**, Huang, C.-Q., Lang, M.W., Thielke, S., McCarty, G., Robertson, A.G., Knopf, J., Wells, A., Macander, M.J. and Du, L. 2021. Characterizing Wetland Inundation and Vegetation Dynamics in the Arctic Coastal Plain Using Recent Satellite Data and Field Photos. Remote Sensing. *In press*.
+
 van Nieuwenhuizen, N., Lindsay, J.B. and **DeVries, B.**. 2021. Automated Mapping of Transportation Embankments in Fine-Resolution LiDAR DEMs. Remote Sensing. 13(7), 1308.&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.3390/rs130713">Manuscript</a>
 
 Hondula, K.L., **DeVries, B.**, Jones, C.N. and Palmer, M.A. 2021. Effects of Using High Resolution Satellite-Based Inundation Time Series to Estimate Methane Fluxes From Forested Wetlands. Geophysical Research Letters, 48, e2021GL092556. doi:10.1029/2021GL092556.&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.1029/2021GL092556">Manuscript</a>
