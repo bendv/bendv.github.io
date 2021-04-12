@@ -31,11 +31,11 @@ Available [here](../talks)
 ---
 ## Teaching Experience
 
-**Instructor, "Earth from Space" (2020)**
+**Instructor, "Earth from Space" (2020)**  
 GEOG\*2420, University of Guelph  
 Topics: Earth Observation systems, principles of optical, SAR and LiDAR remote sensing, air photo interpretation, photogrammetry
 
-**Instructor, "Applied Geomatics" (2020-2021)**
+**Instructor, "Applied Geomatics" (2020-2021)**  
 GEOG\*4480, University of Guelph  
 Topics: group capstone project, emerging themes in GIS and remote sensing  
 
