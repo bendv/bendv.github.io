@@ -31,23 +31,27 @@ Available [here](../talks)
 ---
 ## Teaching Experience
 
-**Instructor, "Applied Geomatics" (2020)**
-GEOG\*4480, University of Guelph  
-Topics: group project, emerging themes in GIS and remote sensing  
+**Instructor, "Earth from Space" (2020)**
+GEOG\*2420, University of Guelph  
+Topics: Earth Observation systems, principles of optical, SAR and LiDAR remote sensing, air photo interpretation, photogrammetry
 
-**Instructor, "GIS and Spatial Analysis" (2020)**  
+**Instructor, "Applied Geomatics" (2020-2021)**
+GEOG\*4480, University of Guelph  
+Topics: group capstone project, emerging themes in GIS and remote sensing  
+
+**Instructor, "GIS and Spatial Analysis" (2020-2021)**  
 GEOG\*3480, University of Guelph  
 Topics: vector and raster GIS, spatial models, spatial statistics, digital terrain analysis  
 
-**Instructor, "Analysis in Geography" (2019)**  
+**Instructor, "Analysis in Geography" (2019-2020)**  
 GEOG\*2460, University of Guelph  
 Topics: stastistical analysis for the natural and social sciences  
 
-**Instructor, “Remote Sensing: Digital Processing and Analysis” (2018)**  
+**Guest Instructor, “Remote Sensing: Digital Processing and Analysis” (2018)**  
 GEOG472, BSc in Geography, University of Maryland ([course website](https://geog.umd.edu/courseinfo/GEOG472))  
 Topics: remote sensing, cloud computing  
 
-**Instructor, “Remote Sensing Instruments and Observations” (2017)**  
+**Guest Instructor, “Remote Sensing Instruments and Observations” (2017)**  
 GEOG671, MSc/PhD in Geography, University of Maryland  ([course website](https://geog.umd.edu/courseinfo/GEOG671))  
 Topics: optical and SAR remote sensing  
 
@@ -59,23 +63,9 @@ Topics: optical, SAR and LiDAR remote sensing
 GRS-33806, MSc in Geo-Information, Wageningen University ([course materials](http://geoscripting-wur.github.io/))  
 Topics: geospatial data processing, R, python 
 
-**Instructor, “Remote Sensing and GIS Integration” (2012-2014)**  
+**Guest Instructor, “Remote Sensing and GIS Integration” (2012-2014)**  
 GRS-60312, MSc in Geo-Information, Wageningen University ([course website](https://ssc.wur.nl/Studiegids/Vak/GRS-60312))  
 Topics: remote sensing, time series, citizen science  
-
-**Coordinator and Instructor, Forest change workshops (2011-2013)**  
-Ethiopian Ministry of Agriculture, Bonga, Ethiopia  
-Topics: remote sensing, GIS, GPS, forest inventory  
-
-**Coordinator and Instructor, Hydrologic modeling workshop (2010)**  
-World Wildlife Fund, Palangkaraya, Indonesia ([report](https://doi.org/10.13140/RG.2.2.27905.56165))  
-Topics: hydrologic modeling, GIS  
-
-**MSc Thesis Co-Supervisor (2012-2015)**  
-Laboratory for Geo-Information Science and Remote Sensing  
-
-**Private Tutor (2003-2007)**  
-Tutoring Alliance, Inc., Toronto, Canada  
 
 ---
 
