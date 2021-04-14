@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-Zou, Z., **DeVries, B.**, Huang, C.-Q., Lang, M.W., Thielke, S., McCarty, G., Robertson, A.G., Knopf, J., Wells, A., Macander, M.J. and Du, L. 2021. Characterizing Wetland Inundation and Vegetation Dynamics in the Arctic Coastal Plain Using Recent Satellite Data and Field Photos. Remote Sensing. *In press*.
+Zou, Z., **DeVries, B.**, Huang, C.-Q., Lang, M.W., Thielke, S., McCarty, G., Robertson, A.G., Knopf, J., Wells, A., Macander, M.J. and Du, L. 2021. Characterizing Wetland Inundation and Vegetation Dynamics in the Arctic Coastal Plain Using Recent Satellite Data and Field Photos. Remote Sensing. 13(8), 1492.&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.3390/rs13081492">Manuscript</a>
 
 van Nieuwenhuizen, N., Lindsay, J.B. and **DeVries, B.**. 2021. Automated Mapping of Transportation Embankments in Fine-Resolution LiDAR DEMs. Remote Sensing. 13(7), 1308.&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.3390/rs130713">Manuscript</a>
 
