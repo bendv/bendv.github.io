@@ -4,6 +4,10 @@ title: Publications
 permalink: /publications/
 ---
 
+Cuni-Sanchez, A. et al (including DeVries, B.). 2021. High aboveground carbon stock of African tropical montane forests. Nature, 596(7873), 536-542.&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.nature.com/articles/s41586-021-03728-4">Manuscript</a>
+
+van Nieuwenhuizen, N., Lindsay, J.B. and **DeVries, B.**. 2021. Smoothing of digital elevation models and the alteration of overland flow path length distributions. Hydrological Processes, 35(7), e14271.&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.1002/hyp.14271">Manuscript</a>
+
 Zou, Z., **DeVries, B.**, Huang, C.-Q., Lang, M.W., Thielke, S., McCarty, G., Robertson, A.G., Knopf, J., Wells, A., Macander, M.J. and Du, L. 2021. Characterizing Wetland Inundation and Vegetation Dynamics in the Arctic Coastal Plain Using Recent Satellite Data and Field Photos. Remote Sensing. 13(8), 1492.&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.3390/rs13081492">Manuscript</a>
 
 van Nieuwenhuizen, N., Lindsay, J.B. and **DeVries, B.**. 2021. Automated Mapping of Transportation Embankments in Fine-Resolution LiDAR DEMs. Remote Sensing. 13(7), 1308.&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.3390/rs130713">Manuscript</a>
