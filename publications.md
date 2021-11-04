@@ -4,6 +4,8 @@ title: Publications
 permalink: /publications/
 ---
 
+Chang, Q., Zwieback, S., **DeVries, B**. and Berg, A. 2022. “Application of L-Band SAR for Mapping Tundra Shrub Biomass, Leaf Area Index, and Rainfall Interception.” Remote Sensing of Environment 268 (May 2021): 112747.&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.1016/j.rse.2021.112747">Manuscript</a>.
+
 Cuni-Sanchez, A. et al (including DeVries, B.). 2021. High aboveground carbon stock of African tropical montane forests. Nature, 596(7873), 536-542.&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.nature.com/articles/s41586-021-03728-4">Manuscript</a>
 
 van Nieuwenhuizen, N., Lindsay, J.B. and **DeVries, B.**. 2021. Smoothing of digital elevation models and the alteration of overland flow path length distributions. Hydrological Processes, 35(7), e14271.&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.1002/hyp.14271">Manuscript</a>
