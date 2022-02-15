@@ -31,19 +31,19 @@ Available [here](../talks)
 ---
 ## Teaching Experience
 
-**Instructor, "Earth from Space" (2020)**  
+**Instructor, "Earth from Space" (2020-2021)**  
 GEOG\*2420, University of Guelph  
 Topics: Earth Observation systems, principles of optical, SAR and LiDAR remote sensing, air photo interpretation, photogrammetry
 
-**Instructor, "Applied Geomatics" (2020-2021)**  
+**Instructor, "Applied Geomatics" (2020-2022)**  
 GEOG\*4480, University of Guelph  
 Topics: group capstone project, emerging themes in GIS and remote sensing  
 
-**Instructor, "GIS and Spatial Analysis" (2020-2021)**  
+**Instructor, "GIS and Spatial Analysis" (2020-2022)**  
 GEOG\*3480, University of Guelph  
 Topics: vector and raster GIS, spatial models, spatial statistics, digital terrain analysis  
 
-**Instructor, "Analysis in Geography" (2019-2020)**  
+**Instructor, "Analysis in Geography" (2019-2021)**  
 GEOG\*2460, University of Guelph  
 Topics: stastistical analysis for the natural and social sciences  
 
@@ -74,7 +74,7 @@ Topics: remote sensing, time series, citizen science
 ### Assistant Professor (07/2019 - present)
 Department of Geography, Environment and Geomatics, University of Guelph
 
-### Adjunct Assistant Professor (07/2019 - present)  
+### Adjunct Assistant Professor (07/2019 - 07/2020)  
 Department of Geographical Sciences, University of Maryland
 
 ### Assistant Research Professor (07/2018 - 07/2019)
