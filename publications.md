@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-Lane, C.R., Creed, I.F., Golden, H.E., Leibowitz, S.G., Mushet, D.M., Rains, M.C., Wu, Q., D'Amico, E., Alexander, L.C., Ali, G.A., Basu, N.B., Bennett, M.G., Christensen, J.R., Cohen, M.J., Covino, T.P., **DeVries, B.**, Hill, R.A., Jencso, K., Lang, M.W., McLaughlin, D.L., Rosenberry, D.O., Rover, J. and Vanderhoof, M.K. 2022. "Vulnerable Waters are Essential to Watershed Resilience". Ecosystems (2022).&nbsp;&nbsp;&nbsp;&nbsp;<a href="">manuscript>https://doi.org/10.1007/s10021-021-00737-2</a>
+Lane, C.R., Creed, I.F., Golden, H.E., Leibowitz, S.G., Mushet, D.M., Rains, M.C., Wu, Q., D'Amico, E., Alexander, L.C., Ali, G.A., Basu, N.B., Bennett, M.G., Christensen, J.R., Cohen, M.J., Covino, T.P., **DeVries, B.**, Hill, R.A., Jencso, K., Lang, M.W., McLaughlin, D.L., Rosenberry, D.O., Rover, J. and Vanderhoof, M.K. 2022. "Vulnerable Waters are Essential to Watershed Resilience". Ecosystems (2022).&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.1007/s10021-021-00737-2">Manuscript></a>
 
 Chang, Q., Zwieback, S., **DeVries, B**. and Berg, A. 2022. “Application of L-Band SAR for Mapping Tundra Shrub Biomass, Leaf Area Index, and Rainfall Interception.” Remote Sensing of Environment 268 (May 2021): 112747.&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.1016/j.rse.2021.112747">Manuscript</a>.
 
