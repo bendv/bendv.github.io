@@ -4,6 +4,10 @@ title: Publications
 permalink: /publications/
 ---
 
+Lohbeck, M., DeVries, B., Bongers, F., Martinez-Ramos, M., Navarrete-Segueda, A., Nicasio-Arzeta, S., Siebe, C., Pingarroni, A., Wies, G. and Decuyper, M. 2022. “Mexican Agricultural Frontier Communities Differ in Forest Dynamics with Consequences for Conservation and Restoration.” Remote Sensing in Ecology and Conservation 37 (2): 10–14.&nbsp;&nbsp;&nbsp;&nbsp;<a href=https://doi.org/10.1002/rse2.262>Manuscript</a>
+
+Merchant, M.A., Obadia, M., Brisco, B., Devries, B. and Berg A.A. 2022. “Applying Machine Learning and Time-Series Analysis on Sentinel-1A SAR/InSAR for Characterizing Arctic Tundra Hydro-Ecological Conditions.” Remote Sensing 14 (5).&nbsp;&nbsp;&nbsp;&nbsp;<a href=https://doi.org/10.3390/rs14051123>Manuscript</a>
+
 Lane, C.R., Creed, I.F., Golden, H.E., Leibowitz, S.G., Mushet, D.M., Rains, M.C., Wu, Q., D'Amico, E., Alexander, L.C., Ali, G.A., Basu, N.B., Bennett, M.G., Christensen, J.R., Cohen, M.J., Covino, T.P., DeVries, B., Hill, R.A., Jencso, K., Lang, M.W., McLaughlin, D.L., Rosenberry, D.O., Rover, J. and Vanderhoof, M.K. 2022. "Vulnerable Waters are Essential to Watershed Resilience". Ecosystems (2022).&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.1007/s10021-021-00737-2">Manuscript</a>
 
 Chang, Q., Zwieback, S., **DeVries, B**. and Berg, A. 2022. “Application of L-Band SAR for Mapping Tundra Shrub Biomass, Leaf Area Index, and Rainfall Interception.” Remote Sensing of Environment 268 (May 2021): 112747.&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://doi.org/10.1016/j.rse.2021.112747">Manuscript</a>.
